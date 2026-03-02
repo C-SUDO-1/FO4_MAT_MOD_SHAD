@@ -1,0 +1,1350 @@
+{
+  "BGSM": [
+    {
+      "Name": "AdaptativeEmissive_ExposureOffset",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "AdaptativeEmissive_FinalExposureMax",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "AdaptativeEmissive_FinalExposureMin",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "Alpha",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "AlphaBlendMode",
+      "Type": "MaterialLib.BaseMaterialFile\u002BAlphaBlendModeType",
+      "IsEnum": true,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "AlphaTest",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "AlphaTestRef",
+      "Type": "System.Byte",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 128
+    },
+    {
+      "Name": "AnisoLighting",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "AssumeShadowmask",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "BackLighting",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "BackLightPower",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "CastShadows",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "CustomPorosity",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "Decal",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "DecalNoFade",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "DepthBias",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "DiffuseTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "DisplacementTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "DisplacementTextureBias",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -0.5
+    },
+    {
+      "Name": "DisplacementTextureScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 10
+    },
+    {
+      "Name": "DissolveFade",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "DistanceFieldAlphaTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "EmitEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EmittanceColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 4294967295
+    },
+    {
+      "Name": "EmittanceMult",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "EnableEditorAlphaRef",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EnvironmentMapping",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EnvironmentMappingEye",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EnvironmentMappingMaskScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "EnvironmentMappingWindow",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EnvmapTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "ExternalEmittance",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "Facegen",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "FlowTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "FresnelPower",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 5
+    },
+    {
+      "Name": "Glowmap",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "GlowTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "GrayscaleToPaletteColor",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "GrayscaleToPaletteScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "GreyscaleTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "Hair",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "HairTintColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 8421504
+    },
+    {
+      "Name": "HideSecret",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "InnerLayerTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "LightingTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "LumEmittance",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "MaskWrites",
+      "Type": "MaterialLib.BaseMaterialFile\u002BMaskWriteFlags",
+      "IsEnum": true,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 63
+    },
+    {
+      "Name": "ModelSpaceNormals",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "NonOccluder",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "NormalTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "PBR",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "PorosityValue",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "ReceiveShadows",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "Refraction",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "RefractionFalloff",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "RefractionPower",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "RimLighting",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "RimPower",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 2
+    },
+    {
+      "Name": "RootMaterialPath",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "ScreenSpaceReflections",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "SkewSpecularAlpha",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "SkinTint",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "Smoothness",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "SmoothSpecTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "SpecularColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 4294967295
+    },
+    {
+      "Name": "SpecularEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "SpecularMult",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "SpecularTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "SubsurfaceLighting",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "SubsurfaceLightingRolloff",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0.3
+    },
+    {
+      "Name": "Terrain",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "TerrainRotationAngle",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "TerrainThresholdFalloff",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "TerrainTilingDistance",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "Tessellate",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "TessellationBaseFactor",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "TessellationFadeDistance",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "TessellationPnScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "TileU",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    },
+    {
+      "Name": "TileV",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    },
+    {
+      "Name": "Translucency",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "TranslucencyMixAlbedoWithSubsurfaceColor",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "TranslucencySubsurfaceColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "TranslucencyThickObject",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "TranslucencyTransmissiveScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "TranslucencyTurbulence",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "Tree",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "TwoSided",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "UnkInt1",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "UOffset",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "UScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "UseAdaptativeEmissive",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "Version",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 2
+    },
+    {
+      "Name": "VOffset",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "VScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "WetnessControlEnvMapScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -1
+    },
+    {
+      "Name": "WetnessControlFresnelPower",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -1
+    },
+    {
+      "Name": "WetnessControlMetalness",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -1
+    },
+    {
+      "Name": "WetnessControlScreenSpaceReflections",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "WetnessControlSpecMinvar",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -1
+    },
+    {
+      "Name": "WetnessControlSpecPowerScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -1
+    },
+    {
+      "Name": "WetnessControlSpecScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": -1
+    },
+    {
+      "Name": "WrinklesTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "ZBufferTest",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    },
+    {
+      "Name": "ZBufferWrite",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    }
+  ],
+  "BGEM": [
+    {
+      "Name": "AdaptativeEmissive_ExposureOffset",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "AdaptativeEmissive_FinalExposureMax",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "AdaptativeEmissive_FinalExposureMin",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "Alpha",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "AlphaBlendMode",
+      "Type": "MaterialLib.BaseMaterialFile\u002BAlphaBlendModeType",
+      "IsEnum": true,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "AlphaTest",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "AlphaTestRef",
+      "Type": "System.Byte",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 128
+    },
+    {
+      "Name": "BaseColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 4294967295
+    },
+    {
+      "Name": "BaseColorScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "BaseTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "BloodEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "Decal",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "DecalNoFade",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "DepthBias",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EffectLightingEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EffectPbrSpecular",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EmittanceColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 4294967295
+    },
+    {
+      "Name": "EnvironmentMapping",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "EnvironmentMappingMaskScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "EnvmapMaskTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "EnvmapMinLOD",
+      "Type": "System.Byte",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "EnvmapTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "FalloffColorEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "FalloffEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "FalloffStartAngle",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "FalloffStartOpacity",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "FalloffStopAngle",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "FalloffStopOpacity",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "GlassBlurScaleBase",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0.4
+    },
+    {
+      "Name": "GlassBlurScaleFactor",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "GlassDirtOverlay",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "GlassEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "GlassFresnelColor",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 4294967295
+    },
+    {
+      "Name": "GlassRefractionScaleBase",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0.05
+    },
+    {
+      "Name": "GlassRoughnessScratch",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "Glowmap",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "GlowTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "GrayscaleTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "GrayscaleToPaletteAlpha",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "GrayscaleToPaletteColor",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "LightingInfluence",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "LightingTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "MaskWrites",
+      "Type": "MaterialLib.BaseMaterialFile\u002BMaskWriteFlags",
+      "IsEnum": true,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 63
+    },
+    {
+      "Name": "NonOccluder",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "NormalTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "Refraction",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "RefractionFalloff",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "RefractionPower",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "ScreenSpaceReflections",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "SoftDepth",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 100
+    },
+    {
+      "Name": "SoftEnabled",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "SpecularTexture",
+      "Type": "System.String",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": ""
+    },
+    {
+      "Name": "TileU",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    },
+    {
+      "Name": "TileV",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    },
+    {
+      "Name": "TwoSided",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "UOffset",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "UScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "Version",
+      "Type": "System.UInt32",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 2
+    },
+    {
+      "Name": "VOffset",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 0
+    },
+    {
+      "Name": "VScale",
+      "Type": "System.Single",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": 1
+    },
+    {
+      "Name": "WetnessControlScreenSpaceReflections",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": false
+    },
+    {
+      "Name": "ZBufferTest",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    },
+    {
+      "Name": "ZBufferWrite",
+      "Type": "System.Boolean",
+      "IsEnum": false,
+      "IsNullable": false,
+      "CanWrite": true,
+      "DefaultValue": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿{
+    "resource_signature":  "rs_same",
+    "id":  "ps_dummy_001",
+    "instruction_count":  42,
+    "shader_id":  "ps_dummy_001",
+    "texture_count":  2,
+    "cbuffer_layout_hash":  "cb_layout_same",
+    "cube_count":  0,
+    "stage":  "PS",
+    "hash":  "dummy_001"
+}

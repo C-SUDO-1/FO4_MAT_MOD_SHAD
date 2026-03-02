@@ -1,0 +1,35 @@
+[
+  {
+    "ShaderId": "ps_dummy_001",
+    "Stage": "PS",
+    "Hash": "dummy_001",
+    "InstructionCount": 42,
+    "TextureCount": 2,
+    "CubeCount": 0,
+    "CBufferLayoutHash": "cb_layout_same",
+    "ResourceSignature": "rs_same",
+    "Fingerprint": "37eac41d923d5d5293b987ade0b7ef75b1eb5d36"
+  },
+  {
+    "ShaderId": "ps_dummy_002",
+    "Stage": "PS",
+    "Hash": "dummy_002",
+    "InstructionCount": 42,
+    "TextureCount": 2,
+    "CubeCount": 0,
+    "CBufferLayoutHash": "cb_layout_same",
+    "ResourceSignature": "rs_same",
+    "Fingerprint": "37eac41d923d5d5293b987ade0b7ef75b1eb5d36"
+  },
+  {
+    "ShaderId": "ps_dummy_003",
+    "Stage": "PS",
+    "Hash": "dummy_003",
+    "InstructionCount": 42,
+    "TextureCount": 2,
+    "CubeCount": 0,
+    "CBufferLayoutHash": "cb_layout_same",
+    "ResourceSignature": "rs_DIFFERENT",
+    "Fingerprint": "9b4e838dc1b2116b3be6c7e69521fb6bb848a33e"
+  }
+]

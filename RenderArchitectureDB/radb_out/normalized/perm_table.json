@@ -1,0 +1,6914 @@
+[
+  {
+    "PermId": "b2e5b8e324c5a1a70abcab64414356c49696a902",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 0,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "09a0b40a600b1ea56c83a09a972cff8ac59b680b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 74,
+    "Spf2": 161,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d6deee0252ad73043b5e0002e1c549aae96c290a",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 1610612848,
+    "Spf2": 1073741873,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "863eb3fe561ceb399c062ec29b355fb128860668",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483650,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "e6a99d17755b5963010790cfd1b209accd6f7968",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483650,
+    "Spf2": 176,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0de2888f04710faaa4e0899a3223a8a0cdeabceb",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483656,
+    "Spf2": 0,
+    "DominantClass": "trees",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "bf95a0e9dcb0cbb868383ac08dbad79812146023",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483656,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 177
+  },
+  {
+    "PermId": "6a676b1f4f94b7471563ad83e2380ee17ebe2bd9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483656,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "56e8f1d681019af52b08efdbae5cf80c0446e044",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483656,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "269615eaedd5dd39c7567a37f530ce08bb7bd9ec",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483658,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "9874656ce4d6f0dc6fec4f434ea55ddc71a4f64a",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 0,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "90ea07350d963b1f30672522cb69da4926e09277",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 111
+  },
+  {
+    "PermId": "e7cd09e8818d63353f7dc5d8c642af3631feca6b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 40,
+    "DominantClass": "decals",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "5799efbdde96c137fae6a8fe20613c2381d6f2d9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 41
+  },
+  {
+    "PermId": "0ffc6678fee03bb354f993a936d9fcd3a68f981b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "73f668ad39143edbf8db1cbd39367a014b7944da",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "0e4cffe1fffac15ee41d02fbda60408c1712d01d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483664,
+    "Spf2": 176,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "42f25e8b25bd1dd57ae37909444591377eb0e286",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483666,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "bbf7286944170c02d9797bd103ded45587bb1a83",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483672,
+    "Spf2": 48,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "1df6ea445120e636d846fb953da28647c72c0de9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483680,
+    "Spf2": 0,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5f8fdfeab24f7b6c633fdfe402e9061a9726b3ce",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483680,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "4fcfebe02f7f79070325709d51cf5e4a7558ca8a",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483688,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "972047342c7361016dbed9c94b8b8f19e1bbe3b3",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483696,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "742a2e2970ed88e3a06a3a6eab9d5863e2d0b919",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483696,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 25
+  },
+  {
+    "PermId": "9d7e028bf5a2594dcf7e294e3bd2e5bcbb7450a5",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483696,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "de35362341e42fdadaea63863cc1af35aec8bd1c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483698,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "db656aaa5d441b5700c5f04db22ae6750f4f3120",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483704,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "c77ab521d7dd5f13e94d17edde7bc81316b160ca",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483712,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "0e294e46fbd52f7d90e02b1789b3f1f5ba0a26c1",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483712,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "39ddc402585d2361c06fca2807b77cd390ff121f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483712,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 18
+  },
+  {
+    "PermId": "ed9a8134a7b2016860bc588fe32f3c6ed0bd3d77",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483712,
+    "Spf2": 160,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "3af68ccebfadb47cef074d7234905b7897f6e3f9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483720,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "3cb2ca82b7af0f63be1a09e4f3030347512fde8c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483722,
+    "Spf2": 176,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "43b7f81701a13b744794c2193fba6756fe17bdce",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483728,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "5576b2149d4b798c7353207f1b09e679150c548c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483728,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 21
+  },
+  {
+    "PermId": "e2daaf9cdc988ba42bdf131d705a30b309f62257",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483736,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "98f6a0edcb2c81a84f1cc2781a407ab533bb452d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483738,
+    "Spf2": 48,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "45dc4360b297eff65ffc1c964b670b50d7790f2d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483744,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "2f6dce6e9b1c670e9be35c31f64677f6287174d1",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483760,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9179498d6fb9ca48cd1aa8a9e19f9e77a87132ac",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483760,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 16
+  },
+  {
+    "PermId": "3a65d19f7890c7a2865da8947e3751c1540a7f45",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483762,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "53b86d6025b2a905bf7dab572ef04072b9b514b5",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483768,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "0ae2dbb052a220f850552d7906f4f7eb57251d39",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483770,
+    "Spf2": 176,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4ebdeaff1b70ab9a5f90c78a3bd8354cd0ae1f0f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483776,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 16
+  },
+  {
+    "PermId": "b5ef271d75b047200e57cc4625099a384e2be6e0",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483776,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 46
+  },
+  {
+    "PermId": "5c4d1d3221c61d8a467298ea115a6a03539bcea6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483776,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "84da2e4e8d1dd2f91d56a79deee1aa9211e62ee9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483784,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "e8ba4b5f3055804d7935165ccea1f5bdb5f9350c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483792,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9f03c16152c560e7b1a0a461031b2ca475f9e95d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483800,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "8acf8fbb8b7df75cf00a5d7f5b45d9c0503f8955",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483808,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "2643b6b7f535d8e846f06e695bb949896eccb7ac",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483824,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "43c37723981582b2753bfa913c45af410e0152c2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483840,
+    "Spf2": 0,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 17
+  },
+  {
+    "PermId": "c456c1a7860b6649202050f8323b28a402163644",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483840,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 25
+  },
+  {
+    "PermId": "5ff7f6e4a901a3248694165a4d9258592b8beb4a",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483840,
+    "Spf2": 160,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d5e048550ed45b282693ecb1ac88b84855a2f2f3",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483848,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "e24327c1854b659a7e3705b0a999045de64b8f12",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483850,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4f622c73555d01d598c90c8b8f9909aa6f811c9c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483856,
+    "Spf2": 0,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "64e1d4add09f5da7a7cf586dd1b5d1ad55370dfb",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483968,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "80e0f8f1b34c2a6d5a807cec824c890e53c65944",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147483984,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "9959f1701e6730f07a3a40c4d7e4887d1b924d34",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147484000,
+    "Spf2": 0,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "7b2b7eab5ce673e3bc16b23c552bf41b57864891",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147484000,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "ce910cb6fe0c43131d8d739e5dcd0bd1aa8c4934",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147484016,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "272df144972e7ede5260f1320f7af03d25222e5b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2147549376,
+    "Spf2": 0,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "d8223436f34ebe5ca56b1b6745528282168ce5a0",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677960,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "fc15cf5a6528981498f7e63eda48ebd028b296a4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 24,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "831505e399edb4b16e0d14b4e1677662ee11fcb8",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 77
+  },
+  {
+    "PermId": "0c873099436ede4aa47d01a0f609822999242900",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 40,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f912055a8d3219cb6ec7badd1ff110c7a6791df1",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 48,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "037dcb545bfcde741b01c31b746e74aaeaf6dd27",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 56,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4cac0c0c29c16fe301a77e8ee67a7d7fc4c0f66b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e35486465eea9856d42b5d2ea0faf62a98eb27b2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810240,
+    "Spf2": 176,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f4a46a0d17d3f47852f862881306122b89776948",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810248,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "6af22fa9350d7db5beac515a952ea67c85116017",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810248,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2ca4fd622bee572c49d68c39c24a64f8a6cb8e7b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810248,
+    "Spf2": 56,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b5a7d7b580abbb39fd749591e8d26f40d44f2d00",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810250,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "92f5b490b98163de7c59469691e793dd061169b3",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810256,
+    "Spf2": 40,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "5caabaf6d5b1cc03ca485004cabac993df83494d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810272,
+    "Spf2": 40,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 77
+  },
+  {
+    "PermId": "ef0423603a7a61a07ea4d635ad185fc57c7540f4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810272,
+    "Spf2": 168,
+    "DominantClass": "other",
+    "OccurrenceCount": 29
+  },
+  {
+    "PermId": "895c349786f7857b7d6ac7bc3d087c0a065e9a9f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2348810368,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "2643073ba5d035c9fe3f39fbf2900bb396dc6d56",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741825,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "05fd5f2f391eec52c2b34d71035d16885ef1fda9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741840,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 66
+  },
+  {
+    "PermId": "dc7146b1e1258f6641d8701ee35a9e68728329f7",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741841,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "37cbc4557661978ca029d6c31dd6dc01fed41468",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 109
+  },
+  {
+    "PermId": "9fb6b156e35bca472b2fa8bfdd9c079c75b4a6e8",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741857,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9b05c2d172fb912910f553cb3fe8738316625a74",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741864,
+    "DominantClass": "other",
+    "OccurrenceCount": 12
+  },
+  {
+    "PermId": "c2aeb7b99b7ec38c7a012e7de8ea661dd3d86d3e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354560,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 31
+  },
+  {
+    "PermId": "65acd3c3e383e6441b78e346cd815fc27019f783",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354562,
+    "Spf2": 1073741825,
+    "DominantClass": "other",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "f5737731858e952bb9de079f974c0503dcde2131",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354562,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "779de97ab29d9316b722c39798a19c63b6e3807b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354562,
+    "Spf2": 1073741984,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "2b89315b9e6ce1a0d94906ea9f2eb724b754e835",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354568,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "32eb86551eb2ee5c4db64e93651a99c08f4f9ad2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354568,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "2a6c4c8c3036388613eb38c94a617319176246ff",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354570,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "b0043c7704bce1fafdee7607428b2af6d2474feb",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354570,
+    "Spf2": 1073741857,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "bc35052de35cb4f63c09fa531a9fb49459ad3aca",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354570,
+    "Spf2": 1073741984,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "913bd424aa9aeca3105ffab77f22bee86efd4bf9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354576,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 56
+  },
+  {
+    "PermId": "60bcbdb60255ca8ae33276383c90b66e2c6b8cd7",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354576,
+    "Spf2": 1073741864,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "692813c7e6f418ee4ba609bca3199084d18b8021",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354576,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "8e91a8945a167fd42c9c6caf8f36d30f56951471",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354576,
+    "Spf2": 1073741984,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "13134298293ba866381fd10b896337025b9b466e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354576,
+    "Spf2": 1073741992,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "6f88a637464ad2283373af40a6d65c98c7dfe573",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354578,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "286b3a702621bbd37539ba9ae28e85f455155bd3",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354578,
+    "Spf2": 1073741952,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "80b5ec9d16f8549f86510d2d4f19a4eee1c1f82d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354578,
+    "Spf2": 1073741953,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "7d7faaea91049f79c921ecff4bf9ccb5439472b2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354578,
+    "Spf2": 1073741984,
+    "DominantClass": "actors",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "9b80053164f30e09c4e87c1af90164fd5a997821",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354578,
+    "Spf2": 1073741985,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "105e7728054700422b1c68df70e260420aa811b0",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354592,
+    "Spf2": 1073741840,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d640cd7d5f8f27d9967082b79e46af9a0b40a564",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354592,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 31
+  },
+  {
+    "PermId": "7239ea3eea264f572e9eb38b2687e44e85826ddd",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354602,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4042a6ae9819543b7362f553f038e8098f0ef533",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354608,
+    "Spf2": 1073741840,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "b6576bbad2c5c3adcba97fb87697a2da0b507f6b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354608,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 82
+  },
+  {
+    "PermId": "6042238e83bf259b374d26bc2d11f0e8fedb1ea9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354608,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 75
+  },
+  {
+    "PermId": "c4b968c4b2c812a31989bb7f1e7e68cbe99b4853",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354616,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "2616e7e4454c4f1b25c43f096430ea3a1cd2bc9e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354624,
+    "Spf2": 1073741825,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f519aa7d88f0caac003792e432bd0c4e05a4e189",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354624,
+    "Spf2": 1073741840,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "537c707235be0a690d869114e6113dca2fd0c560",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354624,
+    "Spf2": 1073741856,
+    "DominantClass": "other",
+    "OccurrenceCount": 19
+  },
+  {
+    "PermId": "1307ceb1f139d5a7cf2f3237e0a6391959397bbc",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354624,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 37
+  },
+  {
+    "PermId": "ac75059c5026b73ecf66a791d5692f9b632f0036",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354624,
+    "Spf2": 1073741873,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a346269c6e4f903a23a380c095a9ccca13fdfe30",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354626,
+    "Spf2": 1073741840,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "661dc156fbb22c4305e3f3f8623ff68a31146201",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354626,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4380147fa6ce8210885eb39849b2ae501325ce10",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354626,
+    "Spf2": 1073741952,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "2dce662c5142a04511cf07b9575fe7244c99144e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354626,
+    "Spf2": 1073742000,
+    "DominantClass": "actors",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "a2603125f3653127c07509e1316d1a4d738cf93f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354632,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "5bc135cefa5c73e313e36aa920da065eff7baa30",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354632,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b41da3f69e602bdee0b2b9e3f1fbe1efa276a3e8",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354634,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "a41f576182857e94731f074bdc142d09ba53008d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354640,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e64583e637944e8e8106def64721dfa6f71e4858",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354640,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "4c91758e1235e40c666d286dc5d076f9eef2d19c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354642,
+    "Spf2": 1073742000,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "5b313264de416413ece9c52de9e2157908f11593",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354656,
+    "Spf2": 1073741825,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "ff54297825ab7e2def85069f3175e8094c8c76b3",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354656,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "abf4a3e46c41fa5093621b9c11620243cb99c541",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354672,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "1d0918ab10879f7394419a6f58b9a45d0e3c8676",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354680,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "29da66451b73d7f36030a5245bcedcfc24de8148",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741825,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "648d009714d8e912c1ae8c0cc6867ed38b8df239",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741840,
+    "DominantClass": "other",
+    "OccurrenceCount": 106
+  },
+  {
+    "PermId": "f7e5ebc24a2a8ed3149061310bc34380cfb8784a",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 43
+  },
+  {
+    "PermId": "95b052cfb1f93313699de352eec2fc25f8373169",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741857,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "958296c9507a838d50e8b8a9b9c5f2c2961dc82c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 22
+  },
+  {
+    "PermId": "90d74c4f0e54427b2a2af75583009dab9f7d3ebc",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741968,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "bbf1de35952315667ed5ab4c021ff1b9471d6ba2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741984,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "d7c78859fe1be0aad9be5165b12e03820bf56a5d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073741985,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "cb06f4d37ed9c8c5a7f1819de2adfcd7d2427e4d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354688,
+    "Spf2": 1073742000,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "f3d8d09a3d7f9a9da1056e0139bd3149d25c2ab6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354690,
+    "Spf2": 1073741840,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "a8df6042b2701c54d1ab7bc6e01f19a66c55eb3e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354690,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d3e0f64dc158b9028ce2fdfbcd979d9faa08abe4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354690,
+    "Spf2": 1073741857,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2551b6616f9a2d8e72fbb20d6a4b1967028bd788",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354690,
+    "Spf2": 1073741952,
+    "DominantClass": "actors",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "72528afa7b1f84346e23cbc8833da0b2ef26a8cd",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354690,
+    "Spf2": 1073741968,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "d5a89836337c972cc83a69391818041a8a6b90a1",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354690,
+    "Spf2": 1073741984,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "af9a18b7bbe5f45753c7ada01bdd63ae65c586bb",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354696,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "615ddf843e5ebcd2f28f8e6283847a5ecf1e9380",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354696,
+    "Spf2": 1073741857,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 12
+  },
+  {
+    "PermId": "bd52585a56e36b836ce50c824ef9362b4bf45b20",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354706,
+    "Spf2": 1073741952,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "3b4e2763a320de0bc1d74348bda10ce46d68df57",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354706,
+    "Spf2": 1073741984,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "17fe02a3c4f5c89e5da7b0e2af580a4e7daeeca2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354720,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "df6d5f6b27bc2e47390dd50c9ee77fcb42d0095e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354722,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f21ade1c63cd11e2c06af28890d6258b005ec238",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354722,
+    "Spf2": 1073742000,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "dc9a6a9c1d7a8d5f773cee271918b3982d9b0acc",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354736,
+    "Spf2": 1073741840,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "f82707ad07d1ed4d2f7a2399919fa5dc630efc72",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354736,
+    "Spf2": 1073741856,
+    "DominantClass": "other",
+    "OccurrenceCount": 14
+  },
+  {
+    "PermId": "99ab7709d72c438f9c3e33d59ae8a7933c17b32d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354736,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 55
+  },
+  {
+    "PermId": "86267c6cf4b374c72930d275444188410ab5d86b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354736,
+    "Spf2": 1073742000,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "e7bb0327d2f22c1bccbbcd6df3791f0347787397",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354744,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "9da5f46e5e623f4453611d3cfb8587a4c910bad4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354744,
+    "Spf2": 1073741872,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "fa9d21660c9bc11e0b7352974de6273f5ec7540c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741825,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "bb3321091d832cf5d3d322ba6338e95f99748c78",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741840,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 64
+  },
+  {
+    "PermId": "f77be1df580222ce41dbc8a190d721b8508412f6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741841,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "1de4df2d70d7f6f86af713d874f32bb30d0df8e0",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "3924fa4259abca6c676d5d615f0e20b7004cf969",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 47
+  },
+  {
+    "PermId": "d374d8b2e50c17132d15e4498fefb9b396550daf",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741952,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "17761d6bf9c9a97f53e6172cb713a00c588896da",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741953,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "a2b9dbf406c2684db3117f8e01bdd7a9cde27a75",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741968,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "31f6175e314b4c549555f551a68f198f93e27e19",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741969,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "3e1b6cc5338cb5816af65c1d927bc54087c49ec3",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073741984,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "af12c7f98b6e41b4132b98cc289a6ee6a5b3ab92",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354752,
+    "Spf2": 1073742000,
+    "DominantClass": "other",
+    "OccurrenceCount": 12
+  },
+  {
+    "PermId": "7b1a67bcaf918f707a061088a48574ad6b92db2e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354754,
+    "Spf2": 1073741825,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "fbdeb5d2370ac60ac4d4cd37e148ec64fb09306d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354754,
+    "Spf2": 1073741840,
+    "DominantClass": "other",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "a9f99572a2190a40a306a9a2ef3258bbc7ca2a46",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354754,
+    "Spf2": 1073741873,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5db15a9db62cc90778e032a1f7a3b47b5073747c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354754,
+    "Spf2": 1073741952,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "fcc24a3fdace1ba9b6c2752e7826ea9a27fbfa01",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354754,
+    "Spf2": 1073741968,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "33c372e3c6b8d5ef593653d0b52abd7d6c54e5ff",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354754,
+    "Spf2": 1073741969,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "03e545df8c34a82a34bf15006ac5252b60d19653",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354760,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "77efbc7971b39e9970c98aa0d92cab23e70d18b0",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354760,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "bacb275b0cf1c27dcf26d55fc871bc5da5b67971",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354768,
+    "Spf2": 1073741856,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b1dad296a80fa02be256705491a771ab6dc9dd1f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354768,
+    "Spf2": 1073741952,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "14de61b7e87969c0b4b9e7aa1797583092b4daaa",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354784,
+    "Spf2": 1073741856,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "9a7b9817db857fd073b214bee7c6e91023fe8164",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684354800,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "66a0c17d5b33a25e49ce3a871a4b5aba11e89416",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684355008,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a39ebc8034c60d6cb66a96cc067d5ea4ddd05df6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684420288,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "65d1d659813d0fbe2c7bded770475719fcb1d28c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684420480,
+    "Spf2": 1073741840,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5d3ed91376b36b2c8fe8e589a84edddfc60dfc94",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2684420544,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "458f9910f2f780ffca051abb2662435066859061",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2885681152,
+    "Spf2": 1073741857,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "ed2c5990cabc50986b2b5960498ddce4a5c54ee5",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2885681154,
+    "Spf2": 1073741856,
+    "DominantClass": "actors",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "51482e6e3539320cac9263de192469954296806b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2885681154,
+    "Spf2": 1073741984,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1046
+  },
+  {
+    "PermId": "7f3f63c9ec371a7b4b1d3821bcb101d84da27524",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2885681160,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "f1a50d12697a01f417fe84dc1d2d1b09711efc65",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225472,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 12
+  },
+  {
+    "PermId": "007129eb469277070d7506c26513114604051f72",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225472,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "d6a02a1a1e0605c936a29a625f181be063464139",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225472,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "e739a82beae97a4c9b00253e673532734a0d2811",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225472,
+    "Spf2": 56,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "8c15f44ee11915287c4ba1a71539930b9530c9b2",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225480,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "3cb39e006fbfd0355368966c000fa485a3fadb21",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225480,
+    "Spf2": 40,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "02e813b447b46464484c072575779d14b3c5b720",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225480,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "fe9fb5d0c1d402a1e41b032d5010017e51090162",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225488,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "26809d30a2ad5f78fb6b96372faaaf0f0820ab19",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225488,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "649b764233c83519fc982cdaf235104b0e37a114",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225488,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "6e2ddd07cac1ee4a9295b24f2b62b86e7df69d58",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225488,
+    "Spf2": 56,
+    "DominantClass": "decals",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "b5fff16ee035e66e010828f09adf2185b35a41a6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225490,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "8b4c22b90e17850d808ffe62354dd8d74eec84c4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225496,
+    "Spf2": 48,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "07dc2a5e8cc223a5b97880371d83290ae3bf2332",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225504,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "36a1b622ea010214e877a73fae5dc312d36b4090",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225504,
+    "Spf2": 56,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "df51c8e275685d32550d02f4dac8f7e00a12c5d7",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225506,
+    "Spf2": 0,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "ed14f4e4829b6ca58aece4b3f82ad9dd167b3c4d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225520,
+    "Spf2": 0,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "0c76881de7fad2cc45ce3909b56b7b77934ae21c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225520,
+    "Spf2": 40,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "5d9605834ac8435ee1650d119c792e507f000645",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225522,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "6de9f2eca8810f5f56ba211c9811937172a24750",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225528,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "eba54629098590a962e927d82713c17997a2b880",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225536,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "38a1715d031df202e31627ecb42b047fddc73209",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225536,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 60
+  },
+  {
+    "PermId": "b6d3c0305f4d01d217caf2bb30a3312f5a92cbaa",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225536,
+    "Spf2": 176,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "586835171daaa7fac093e583d3af854d930febdb",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225544,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "179772e5ae5701b8a5ae6e4c62b3b144f71ef560",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225546,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "dc65674503bf3016e1be90226b974c5cc1032e76",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225552,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 35
+  },
+  {
+    "PermId": "accb6f91adf86cae020f2c93a91d42a3d30c1149",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225552,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "697aac81274755b600f79b1b634596f3f2c5e54e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225552,
+    "Spf2": 176,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "611e78b19b8be6c3767a6c84688b8975935b785b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225560,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "566e31e88f116a6a85e1e20974e8ae8708a2c32a",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225568,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "3f27e05893eccef564655def818ea77fc0d0ee8b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225576,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "47fef88c77ca72f25f4c50df5e0989933cc78a6d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225584,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "25fb6d5d576a813b7b9ee2b796ee80e65665ba34",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225584,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "bbe8b8aa30b8d0b50c7ebbae11db5d2d90601b7c",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225592,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "5c5d4d54baaa8d36313b885877579a1b57b73507",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225792,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "d098e7fc7fa894ead32eac0d7129d1f0c57af1b9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225824,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "0d07818bb8df38d3d3b5862246c0e623186bf31e",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225824,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "1ef5fbb9e910a4cd903f1a8dcd571ce8b658a747",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225840,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0f9cb6f86d6b8b68bd212ebf487dfd9afc73d9b6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3221225848,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "8854078e7d1054f6be7f9311cee3ca75dfee0eb4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3422552128,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "294d6c844b9fb8946b89138237b9fcedc6cc58a7",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096384,
+    "Spf2": 1073741825,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "7a6111b3c5c52e1806efc186b7e09012afddd29f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096384,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 199
+  },
+  {
+    "PermId": "702a8c6b1f57e9deaa0a07801e2f9003307ba544",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096384,
+    "Spf2": 1073741857,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9c8ecb9e9492b95172b93afe1179b017a2d042ee",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096384,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "82ab8921f5b4201c215da11092641681129a32ae",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096386,
+    "Spf2": 1073741952,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "c43584062560d2b84d4e0972cfcda96a16113173",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096392,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "2d48e1308dd5f6d0c5995fd41f7701a4fd142631",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096392,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2a6d48bf7f733480782df80db33011450844ddad",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096400,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 181
+  },
+  {
+    "PermId": "84e407c251e6adedfd0f03e8ac024802a5665fda",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096400,
+    "Spf2": 1073741857,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "ab3826918625da0a6da81cfd6bb48440cd1ec697",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096400,
+    "Spf2": 1073741872,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "9bd19093b2b7c1bd43034b58db760d9c2659fc35",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096400,
+    "Spf2": 1073741984,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "8032ffff63f1157120d82563cce7e554a498a495",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096416,
+    "Spf2": 1073741840,
+    "DominantClass": "decals",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "edf5b3ebf8fc5b8b530542f66bbcc409102b75b4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096416,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 41
+  },
+  {
+    "PermId": "10075f4323fda00cecbcd224f076a13418a9a895",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096416,
+    "Spf2": 1073741873,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "843de5a51a397cb1df245ab2881dbaa92d3b45dc",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096432,
+    "Spf2": 1073741840,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2459407ebde7b25fc3f0651f20bfa73b0010f7d0",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096432,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 212
+  },
+  {
+    "PermId": "49743aa3b3d925957b5347dac888778dd7049b3b",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096432,
+    "Spf2": 1073741857,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "d9947baf72198e1d44203a1999cf64273ef40dbb",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096432,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "b0bfc3b385bed1d7a4ddaac1d48772b3a572b0e4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096434,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "a8fa556d6b3d70c53ed58392de454c2b46d65bb4",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096440,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "b72b5c0c8e6c653a61c0b1258dbbd3b05b372f70",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096448,
+    "Spf2": 1073741840,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "f15f4b056932faaa0a84d52f699f72f2ca9fdfde",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096448,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "dd39246aa93776cebc17eedbded60130a2d0b276",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096448,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 179
+  },
+  {
+    "PermId": "bf8f599525aede8d7f3c504aa9d05a6485e30e67",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096456,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "0c810c654ffc46ead6365e0f8b90c803e5bc5a80",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096456,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 91
+  },
+  {
+    "PermId": "6fb0296db2fa6ace636a61d0a357b29377b2aed9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096458,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "3691625f579cf4823a00296a9b2c704c25289e09",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096464,
+    "Spf2": 1073741840,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0edc35654ef17b7f01d6a60c550c4cb06cc451b6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096464,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 19
+  },
+  {
+    "PermId": "8207d3293f3fb44bb810d3d2059c9e4d29371d04",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096464,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 61
+  },
+  {
+    "PermId": "314d94eb51feeb7f1b48bd617cb3bbb2c1d21117",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096464,
+    "Spf2": 1073742000,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "1f571793b7b89304bc29ecc3ba37166167132a05",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096472,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "b908933154d298ca21f753e017cdf928394e68ac",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096472,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "99d5f7986d3f0113e3a557389e25fb1f1dcab0fa",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096474,
+    "Spf2": 1073741872,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f8e7ab43d9a7f06b24ea5eaeda8ba2f50f458c3f",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096480,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "161ac0a8e89dc743461cc5f6caadcc1c276fdd95",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096480,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "240a3e8edc258746c9c1dfaccfa2ddb305f55281",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096488,
+    "Spf2": 1073741856,
+    "DominantClass": "other",
+    "OccurrenceCount": 148
+  },
+  {
+    "PermId": "a7bfa19187444fb3d1874a9895cfc253ee1b96f9",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096488,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "000920d9267d765ee9318ba94d8d9c93de629a74",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096496,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "5b3ae5d3307861acdad9aa161197c82bbe8f7fc6",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096496,
+    "Spf2": 1073741857,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "32760f588f63f6c0cf288a5cfd03cad2324d7063",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096496,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 16
+  },
+  {
+    "PermId": "b16b0fd685239545440c604511056fc143e91e1d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096498,
+    "Spf2": 1073741857,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "0e1a1ab9efa9509ef459f981a2aaccacd03db313",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096504,
+    "Spf2": 1073741872,
+    "DominantClass": "decals",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "48064f646aaa249a493557a27052926edfb423aa",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096512,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "c5ee9f9d0d7dcac9a3b4cdf32dde7defc6f3e38d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096514,
+    "Spf2": 1073741856,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "3840183c263a9aedc22049d8c141eb93ce7c8b07",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096576,
+    "Spf2": 1073741968,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a8b46d81804ac855dd89e0e51f8119936ff23b3d",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096640,
+    "Spf2": 1073741856,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "816d56c6405f6887257e6b2d2f5ffac941951544",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758096736,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "c1d3a6f47089e6cd551fa3c4080803f81d4517a1",
+    "BlockType": "BSEffectShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 3758162240,
+    "Spf2": 1073741856,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "8df4b1e53b0c73656f6d6ad99d73a488cb4ae70e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 4194320,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "3b1b5c713883a327e8d789439ca98b2bef087c5e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 205521027,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "4d4eee210671c635621fd1f75a72d3375b04408b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 205521027,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 376
+  },
+  {
+    "PermId": "8bc12ee4bca4e11fc1caa17c39fe78bd06cfb160",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 205521035,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "afbe8277172865bef8e535cca894a32bfea5c008",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 205521035,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 621
+  },
+  {
+    "PermId": "1a6dfa3914f59ea92346c66df6fe35a4303af6d9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 205783041,
+    "Spf2": 2097185,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "fc81cb4f720f1706415c774c6421d16822382337",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677952,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4203
+  },
+  {
+    "PermId": "1a8c1e845add279c3493d021cd0f1019ae113e23",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677952,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "6e48f16af2ccdeb69c01cff24b63f96445cd0983",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677952,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "d1a5104f14116aaf57180fd0ce77a1f72973d4e1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677952,
+    "Spf2": 161,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a9eb7d37476f0097b40cb41f9b786f205dbe461a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "9e79b3dc22d1318cb365756cda8f9280997ff51b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 80
+  },
+  {
+    "PermId": "34c77ad0f0fda29578005fc1a80bfbb4644dacac",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d4b679b5622b755158cefdd462c2c5a559a7a718",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "cf74e10bfce3a1de1aa352f6ce28633b481f5496",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 97,
+    "DominantClass": "decals",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "914ff01e6c1fde1ed89f2e8e4e905caea2338062",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 240
+  },
+  {
+    "PermId": "b5f097034756f61e71fe71f2ab76386a057442c2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 438
+  },
+  {
+    "PermId": "62a6281c1f1bdf94032e3ba1ba1269b2fc1e1b72",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 193,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "3120dfdffdb9c29ad11917720c005a447970dc53",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 225,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e4fdceea042f16cf850fe4870a9e3d53f4013840",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677953,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "6973751b59615943594efd8a3de6701a9a8ed9f3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677954,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "9ed3641b7b79554d2d6ea2e337ca53fdbade15d1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677954,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "51c64864b146c5c39a8576905d935dc778e2a6b5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677954,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "1db2a920ce567a8a7c379dc54c9e1469e2ff3504",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677954,
+    "Spf2": 193,
+    "DominantClass": "actors",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "0ff3cbd2eb37f9bffcbacefca9e9054d911f31bc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677954,
+    "Spf2": 225,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9cd6976004d24a083ec4a91c7325ff50c3756fa0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677955,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "f9d818f932c2e5a2de21164045cded1fe4c42825",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677955,
+    "Spf2": 145,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "0c1759e4fa1dc4e9213b2bc036bb4b0a4b0d6a9d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677955,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "9c6e9f1cd5f75c283f0bbe438892ea492d655068",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677955,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "3bdddf3ecda0f80a65a768060177527dc63e4604",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677960,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2124
+  },
+  {
+    "PermId": "e9e310f052c06cdad692a2f95565a30ed050592b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677960,
+    "Spf2": 161,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 20
+  },
+  {
+    "PermId": "433c2660ac47aa0e1d2a2180463a11c62ed644c8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677961,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 18
+  },
+  {
+    "PermId": "a416f91d88746293434d0e0f9c6139dc93940a23",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677961,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "a7831a61c7112a72c67013019bf9d034ae726f98",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677961,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 443
+  },
+  {
+    "PermId": "349b7f90f88c63341845701348b55dffe51fbe26",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677961,
+    "Spf2": 67109025,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2e90c9fa4f7adeef65b4c186d0faf3b138a005ba",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677961,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "7f051c063d7530c7cf2090ad74feb38b591c61b2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677968,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "878b4fcccc25d910ff58200842ad6a7c106b906c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677969,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "6d3ee2193da67e42d72361ad904a17920da6dd16",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677969,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "8075ad35bbd6da311cb05f86e80d06138cb52f4c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677971,
+    "Spf2": 17,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f0379c5df0af0f05d9f251442f855f51cd23693f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677971,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5c8521d090adc3f59875e69af7afee3cf98eab0d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677971,
+    "Spf2": 49,
+    "DominantClass": "actors",
+    "OccurrenceCount": 38
+  },
+  {
+    "PermId": "9451f10c151d3fe0699ac751d6bb835a38a7e7f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677971,
+    "Spf2": 145,
+    "DominantClass": "actors",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "7db182b31ca2eb134c1bfb70e468fc5d27b643d0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151677971,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 120
+  },
+  {
+    "PermId": "c3bf6fe61cc69961181e35e902ec961597483e60",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678080,
+    "Spf2": 161,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "c9fd9ee0bedb6aa3d72c4bd39276afada84d3ea8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678081,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 44
+  },
+  {
+    "PermId": "9fc7b9c8cae7dd68aad85285d29187caeda53c1a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678081,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "3632b2f0e37ad2a888ce2bd4521bdf2e542dcbb9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678081,
+    "Spf2": 169,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "343e04b0f6c2232b6a94d912dff3519fc0945eb9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678083,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "5f7449d52eae6d524d93e4f41fa0d735296b00af",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678083,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "ce13c75d717245dea983601afb83e456ac737f54",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678089,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "3e8ef20bc89f1c92b18c2b593f314d933a68d7e6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678208,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "a2cbb3235b87df11c6480104cefb3927b0005d52",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678208,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "79ef4b702b06b536e5b7cf17ff9ccc28e1ca2d5a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678209,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "932c989434650a0aeb4c793e974362e54215b10f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678217,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "8d972bf569b063998871411cbfd3e5a8028bfa0b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 202
+  },
+  {
+    "PermId": "c6664284a79e6d3d813ea4e527dbf38d3a548cc7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 25,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "86523bf883a4d8db2b26949cde04c02a919c0d36",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 104
+  },
+  {
+    "PermId": "03cf956e4d70c89269b01eb3ad6a225847d5699a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 41,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "6912a4825ba3054eafcc7dbd57b0929d1afc8bc1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 16
+  },
+  {
+    "PermId": "4cce50d33ed05f988e6e0b50ab4e476a87f1fb7f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "6a910310fde10cb84891c04a84e7cc809de3b1a7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 97,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "97ff6284ac1c6872f4c66c61f7ee8c112dac9e6d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 113,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "acafad54d83f0d131820db75ce682010699170c5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 41
+  },
+  {
+    "PermId": "500d253a0d22adb9e511673348e60c8463445369",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 63
+  },
+  {
+    "PermId": "ce691fe997119f3d612491afeca751bb9f6b707f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "76a55007a691dd7ad4408666fd2bbede863c2e4c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "fcf96ffa3ae7d150c6f889c2edb5b9354424f525",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 193,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2b0ecd87ade65b17ed5b18704d872f60ccaedcfe",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 33554481,
+    "DominantClass": "trees",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "78dbab5ded71bc506ea125b9773f44587b5c6aa9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 67108865,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2e100e9095f2254bf4da8542eb5b77d4423c2616",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678464,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 19
+  },
+  {
+    "PermId": "cdf2adbfd9b205cf196e9993655fdcaa21e86628",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 39
+  },
+  {
+    "PermId": "2ed72197d59e6e624c9b5c292a7cbf138c6754a6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1431
+  },
+  {
+    "PermId": "98491783b5ba4d7632f7259cb38649c10e12c333",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 25,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 19
+  },
+  {
+    "PermId": "0b76857a15e663dbda0de13c8e96cb7ec1c2dab7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4321
+  },
+  {
+    "PermId": "6793d2bda21b5fe222b277c47e36733d0bd852a3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9d23bf5a7b3ac32a0081ec8043d8e10bf7fba862",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 49,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 590
+  },
+  {
+    "PermId": "5f16c1b8ad9016c637600292bb291e33628b1da3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 57,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "216ce45e7bb1d8f8e2dc9ecf9cf7e538ce2d5513",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 381
+  },
+  {
+    "PermId": "1d906352c6342094281851d1d55e881d7d2dbf9a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 81,
+    "DominantClass": "decals",
+    "OccurrenceCount": 33
+  },
+  {
+    "PermId": "e2207aa4062d7736e8e1c7060903233742239e35",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 97,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 83
+  },
+  {
+    "PermId": "eb68a245194cbefb11ce4f1700be6f1f184e9446",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 113,
+    "DominantClass": "actors",
+    "OccurrenceCount": 37
+  },
+  {
+    "PermId": "3a830e2b82794727a480dc5f41d3d1f60bb53262",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 3643
+  },
+  {
+    "PermId": "6e5ccccf84b468858fe3076dfb06ecc4ed76ebed",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 362
+  },
+  {
+    "PermId": "b126be896eaa7ae13033a5fa7d25e8c1ac762a4f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 2374
+  },
+  {
+    "PermId": "b117e5a9f1fc7352ccbe4c9882824925bfd05357",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 109
+  },
+  {
+    "PermId": "5c88376a1aab5c48f70bcfd51b625c22485b5902",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 193,
+    "DominantClass": "other",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "f61926ff1462478588b6f0080f40ea46c112df2c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 209,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "a679b8f871c8f971112d960ac0e5eacaeea4981d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 225,
+    "DominantClass": "other",
+    "OccurrenceCount": 21
+  },
+  {
+    "PermId": "a7c042dbd24da4f4b3afe73b807bd3b738607eab",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 2097153,
+    "DominantClass": "actors",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "9a2d47ac767ed1cae08ed0f1dac0af029905594d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 33554433,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5799fecb436dcfd269edfb02c0f492983b0bbb06",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 33554609,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d04a0fbed8cc494b9700f876bd772f27ba4ebe63",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 35651585,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "969aa915fa2a896a2c29d58dcccde519da0231b7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 35651617,
+    "DominantClass": "actors",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "64bfce574267d7920b9452a66f84ea32b262e3c2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 67108865,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 35
+  },
+  {
+    "PermId": "f39bb5ed586724aa55154d68888486dd109d641b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 67108881,
+    "DominantClass": "other",
+    "OccurrenceCount": 49
+  },
+  {
+    "PermId": "6e21c9ed2838ad2c46777c0c5c3f8cdcedb5d031",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 85
+  },
+  {
+    "PermId": "ff71839b382f8ad877606d03a838975befeb49d4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 67108913,
+    "DominantClass": "other",
+    "OccurrenceCount": 18
+  },
+  {
+    "PermId": "261383069267edf64f7adec2e5818a5dd11aafdb",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 67108993,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "52f34b5f99b95e48f1c58b4002790c17035f17c5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 67109057,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "43b18a477a47b66bd68e66d5fc0379be4dc24606",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 69206017,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f6aee9bec103c3c30de0d1fc64c2bed7f275a23a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 69206049,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "8ea54c54ee8eca86be3a47fc5ba75f4dc7f76d69",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 134217761,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "28fdd4787ee269c40f3b152edacbd0cee1efaa67",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 536870945,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "7af6d34cc707ab5cdad367bcf5fbbcc5bce63b23",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 564
+  },
+  {
+    "PermId": "1970aff7c4dd3a709626dc20879f34c681704c5b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678465,
+    "Spf2": 536871089,
+    "DominantClass": "other",
+    "OccurrenceCount": 77
+  },
+  {
+    "PermId": "bbb8cecad27358d2d54dcb0d3f8b77dcbd6a0774",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678466,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "70af2aa397dbb2b1946945db99532ca91fc27151",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678466,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "c87994fbc0085c83ac8ea2a99aee7a09bdf3b8d1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678466,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b0511e3a86a61b28b4d36733dd295d42b35f9e40",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 92
+  },
+  {
+    "PermId": "afc20cb807ad37c3458dd9233f7ec68d316139f0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 58
+  },
+  {
+    "PermId": "41834ef395995818d18555672f69ebef0589a0d9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 45
+  },
+  {
+    "PermId": "b1a4105f9ad1d813d11c1afb7a2d0182c8dc8b16",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 65,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "dda396150fe73d8fd7ec109b37a641de8f3ee25f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 97,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "cecd7aa71c4faac7275c22df03631350bafe382a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 113,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "acf3ccf76ef9b54ec75e0cddbd3391e8343070bd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1366
+  },
+  {
+    "PermId": "5deefe6023614a68ed1a31f4cbd584054c973845",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 162
+  },
+  {
+    "PermId": "58b31ba91b003f9c5f48f21d66a149cecbaa71a2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 67
+  },
+  {
+    "PermId": "9230e23d2a9ea2c4f16f4d4405c77cfe9b915b5d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 33
+  },
+  {
+    "PermId": "b127dadb76035c7e9271926404739e75c3bde76b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 193,
+    "DominantClass": "actors",
+    "OccurrenceCount": 43
+  },
+  {
+    "PermId": "717c7e9cd255d6ed97b5111392e18c09f137bcf0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 209,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f226806af1d1fec4b7282f5515deeee2b066acd3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 225,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "30bcb3184a7edb01589174d7a16ee62904d566db",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 241,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1088
+  },
+  {
+    "PermId": "1c61061c268b019655971721bcbad22f059dbe58",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 2097281,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "33500b2fadb8b44c6e0b0aef8797a4fd4a98815b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678467,
+    "Spf2": 536870961,
+    "DominantClass": "trees",
+    "OccurrenceCount": 268
+  },
+  {
+    "PermId": "c377ec9090f40173d38771788ce22f7c20d23eea",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 16
+  },
+  {
+    "PermId": "1d4781b7889fce5a81ba14866b8ebf457a8f96e4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 18
+  },
+  {
+    "PermId": "8254b6acbb981d3356d2d4a0c33ab46ab612406a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 49,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5060333581e62156d98fc9f7f6fcc8ec1410d91e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f9961c0435d4e7f3ce9e4d25019db654e38c1f83",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 33554481,
+    "DominantClass": "trees",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "84eb64b48f618772abd989481b8d02647242ede1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "8c57ad63d7921c263b9df5acf3ed0e5bb2ea9884",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678472,
+    "Spf2": 570425393,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "753b3855dffcaee588542abc74c367b72b24b873",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 275
+  },
+  {
+    "PermId": "0b319d787a5df134a08dcd986b3f6737a424ab23",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "4656e9f6f5eb689d996371ca9ba0ba1938aca026",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 49,
+    "DominantClass": "trees",
+    "OccurrenceCount": 102
+  },
+  {
+    "PermId": "f45c99a4d3fdebedcd3913ee5168e73eb215f2c3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 97,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "e2e0a8bcd3cb3285e85391b9cab6ab4268dd9519",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 113,
+    "DominantClass": "actors",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "27984b57dd6a372b9d35457ae3891a211d22a6f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "c5f0ac761f58dd6d1544dac8e31e751bcf27ac6a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 793
+  },
+  {
+    "PermId": "839410dbdd173e718db24a77aeab41fe79247211",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 50
+  },
+  {
+    "PermId": "b7a781e2c860f1a36e37babd7228279859884ce6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 33554545,
+    "DominantClass": "actors",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "e83e601b6d90183efd29a3d71974cb806057ff37",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 33554609,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "e2182d5cef95845fe77eba8371ea5e412155238e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "ce7af41d0b9b66ded78e5a0fc31a8c0e5df542d0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 67108913,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "22829f8f71686df844df32a266565127b3cd49c5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 67108961,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "c2fa6ce303bee346dbaa7a2d21b5738342abb208",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 536870961,
+    "DominantClass": "trees",
+    "OccurrenceCount": 43
+  },
+  {
+    "PermId": "088783a454ed344354a18087264b4d604d569dfc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678473,
+    "Spf2": 570425393,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "84f88cafbf7fef3f724790a0cfcd0d4cfbfd0a5a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678475,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "865e436472979d1e391c73c9d8bbab9d13db000f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678475,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "1ee2d3abee30d1b65fa391250f1f315c0180d0d8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678475,
+    "Spf2": 161,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "7b21f563e6c97112c2c57d2bad1c0265fe34f4e6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678475,
+    "Spf2": 2097185,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "ed1b69c1bc1cc3b20570c177fff08162491f0178",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678475,
+    "Spf2": 33554545,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "364c5841d9430737ac55eef0e19513f26b92a960",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678475,
+    "Spf2": 536870961,
+    "DominantClass": "trees",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "495b62e367ed49122e8a6580e5b5fbf37fbf1692",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "c90c2b19dc839f26b9764aeb5a530f5092203cc7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 39
+  },
+  {
+    "PermId": "c90c2b19dc839f26b9764aeb5a530f5092203cc7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 14
+  },
+  {
+    "PermId": "7b697a7fa99268cdb921ff0159460111202a45ff",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "26539754220f11b72a3b602757e43623fc52caad",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "1cdf1877526f542121a0274139e294dcf24971e1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 176
+  },
+  {
+    "PermId": "de0d968cf7b37ad67096d521c29cbd778ce82bfe",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678481,
+    "Spf2": 2097200,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "01299dcb9cd63e1cf68cbe9e3b697abae3f6f7de",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 101
+  },
+  {
+    "PermId": "cd08e96b05e230e298220ec66f233ac074cb54a1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "57f1adbfef1935b067eb4988a119c85a69d877db",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 145,
+    "DominantClass": "actors",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "c43406909d5e48b6ab7451855c95d86fcfaa1cc0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "6458071ff6bf9050b028bd5de05bd530200deae1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "2d8cb59fc2f8d2c5e0aefbff0b233c9d0e0fd0e9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 2097200,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "0c51db9e89e90710acb1c63fc66eead86eb60634",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 2097201,
+    "DominantClass": "actors",
+    "OccurrenceCount": 32
+  },
+  {
+    "PermId": "1065d8c386d8200ef55c6d94023d7a2a87fd75eb",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678483,
+    "Spf2": 2097329,
+    "DominantClass": "actors",
+    "OccurrenceCount": 165
+  },
+  {
+    "PermId": "a846f5605d07553b147f6cac9fe9e677a7570d83",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678489,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "989de41c21fb9edff874a46d5b71f45bf3aa1ed0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678489,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "fbe3d6cc3cc88fd728a0154652312e94956e2662",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678489,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "e6283f4014aa89fa879c59432a4a5b2460c2e584",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678592,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "ff7252c3c4f9888ebc866420c20f51c51735ce1e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678592,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "47328903b89f7e9fadc1da369bbeae7cd0116e32",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678592,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "be9d6ddf2728170e38c3d0d266ebb3a608c2b9d5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "158b9a002ee458920b45825b449729cf6bfddbe6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 451
+  },
+  {
+    "PermId": "be8ff6ae7091096b2226c0b17dc981876055d0e2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 25,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "8d49a70e55785357344c19a32cea3d75c2382369",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1884
+  },
+  {
+    "PermId": "67ec2283056ecef64ac2f1abf91ee06be2d712ef",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 48,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "602f06f70a89dc2eae22372041f8d40fcaea3492",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 49,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 75
+  },
+  {
+    "PermId": "3a41234950afb210a47e4c2fc0909d0ee184b11b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 1829
+  },
+  {
+    "PermId": "08d8d9aa7ffd4999114a1c10ce8e2e9dc20d6022",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 61
+  },
+  {
+    "PermId": "3f73c0ee251ae5f4a799740a3687ca34ba1cdadf",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 153,
+    "DominantClass": "other",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "2d92114c3e5059ca12abd5d48c794cf01f23de77",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 203
+  },
+  {
+    "PermId": "c453cc92e3c6c8014dd20ff8883ae7a3eacc80e4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 305
+  },
+  {
+    "PermId": "81d135856bc5f80803493e03870c2a22f94af836",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 2097153,
+    "DominantClass": "other",
+    "OccurrenceCount": 19
+  },
+  {
+    "PermId": "febcbd9eaca8d4ba84a9d89d901e3c9c3047ad41",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 2097281,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "e5012f812a0f9cd739220a83a8f5bcd52d68f32a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 33554433,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0c0659e066bb164a23ade7b983edf980ebe2eb2e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 35651585,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "884ac3d1f7399060a70549f631b5de205eaf1439",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 67108865,
+    "DominantClass": "other",
+    "OccurrenceCount": 20
+  },
+  {
+    "PermId": "0295749d7774218ea34567ae4a74cd25e8662454",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 44
+  },
+  {
+    "PermId": "a06b8912139adfd96f7c530f80d5732c1a3166a7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678593,
+    "Spf2": 67109025,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "e2308680e7c234ae44115fccb87cac9c050d1b99",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 44
+  },
+  {
+    "PermId": "ea1980cb74343d8aa2164050ae2963f61ee9dddc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 79
+  },
+  {
+    "PermId": "5ceddb58a7077b1a3dfb59d4abdf160c258f9156",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 49,
+    "DominantClass": "actors",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "6714b83da22a659d1030121e8ac0920ce8c6fe2a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 823
+  },
+  {
+    "PermId": "5ff3ebb381ef5d96cb4734a56c4f907cb7fff92d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 171
+  },
+  {
+    "PermId": "c7b375b49b4b7585f2b8655d4b823cf36aa098bf",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 685
+  },
+  {
+    "PermId": "89a09d85459acbc280186800aecd9741caa12a21",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 25
+  },
+  {
+    "PermId": "a20c3e637d74ce1abfb263d1c08f6bd500e78696",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 2097153,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "966e5fa30b23d09f84bd6ebe414453cf216d6011",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 2097281,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f090d8a4ec83d107e3213f320baeeac6e518c8c2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 33554433,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "345fb56de77118e54a154bd5c12b474fde2ccf9a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678595,
+    "Spf2": 67108865,
+    "DominantClass": "trees",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5389b28ec40cba59dcd689ce0eeef892b5167ce8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 93
+  },
+  {
+    "PermId": "644ed7055ca5e7bc7c7ddd0ad8be3e49e4af3012",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 49,
+    "DominantClass": "actors",
+    "OccurrenceCount": 14
+  },
+  {
+    "PermId": "c29b6894219f80d39acca5518e3377d80ff24428",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "c268e881fd817fe32c35abd948085107cfade727",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "31daa6d9a6d0c592890c26f3a3b7fa157dc118f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 38
+  },
+  {
+    "PermId": "24a7c30d094172f6d73227985814ffb72a3ca330",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 67108865,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "ebcb2d6fd586cadb1b12931172db1d39f980ecb5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "9daa59c17861dcd9db842bb756c09d7d9456b844",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678601,
+    "Spf2": 67109025,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "95567eb360e4ed8a8cf0df01dcbede39f1f8a577",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678603,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e04b0c7449c6aa2cd939b1a43f125b592a65e61d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678609,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 124
+  },
+  {
+    "PermId": "47bb5adda5a09e4e940e8e66d5e58f3f8303702b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678609,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 70
+  },
+  {
+    "PermId": "6f030ba140022a04f7f8d0ac21beb4338001e049",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678609,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 40
+  },
+  {
+    "PermId": "cce3e60a73ea9fa3631caaec017474984235c44a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678609,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 739
+  },
+  {
+    "PermId": "d2ba40476b571491499b2519e9b6b592d4e6f0cf",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678609,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0e4ff7a90f0d3217f09d295221ef087206e7884a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678609,
+    "Spf2": 67109025,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "827bee9cc199843f3e2f4d4ffce31238b80bb94b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678611,
+    "Spf2": 17,
+    "DominantClass": "actors",
+    "OccurrenceCount": 35
+  },
+  {
+    "PermId": "2b29d3da9e88b43c11d81d066a426b5d09f96be0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678611,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 35
+  },
+  {
+    "PermId": "5b3e7e8de0ba94645139d955fb93602bae51aff4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678611,
+    "Spf2": 49,
+    "DominantClass": "actors",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "8665b3b5a425cde315af7e043fc74297cb2fa12b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678611,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 37
+  },
+  {
+    "PermId": "d90e0ceaef6a65632fc8296699aa6f7179e56878",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678611,
+    "Spf2": 177,
+    "DominantClass": "actors",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "4c8f14f0e11cccaed0b2571bd7ccc1da2b8527b6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678617,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "5e55f74b1fecf9026257f8c4687be5cb3e4dd673",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678720,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 342
+  },
+  {
+    "PermId": "67eb6f4f774d41c5a36c9eaeb9c29e56f5c078b6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678720,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 17
+  },
+  {
+    "PermId": "4e864e8a88a95fd92698ce52678eb12e651648fd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678720,
+    "Spf2": 97,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "a57ab0e15d2dfbb577dea54ce7b1016e4fe42dfd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678720,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "3d400e48e195241c8c5e39dd09ed9e5434072e48",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678721,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 239
+  },
+  {
+    "PermId": "247109fc3213338088b970ac488770f18ac753b7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678721,
+    "Spf2": 67108865,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "105b8e9e76313913afbc8655c8996f0fac2e4b34",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678721,
+    "Spf2": 69206049,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9af096be2e19e460015ae9b87bccd21572bd5794",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678721,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "76c783786c0468b014eba944e400fdfc00f9a5b0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678728,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 63
+  },
+  {
+    "PermId": "4d1d9ac74b8426bf8c2e1dea815027a5d2fabc58",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678728,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "15dd1e6e4e81b9e1119a7f815cea1a37f795441d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678729,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 30
+  },
+  {
+    "PermId": "221b673fa105d375264eb26d03ef1ac3e55ba3f6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678729,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "39e01bd908b5d2435979b9c7cf0b0cb5cbcb3c87",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678848,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f061edb47546d31ace0d2c1b3490f38773396acc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678849,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 52
+  },
+  {
+    "PermId": "e96506c266af3b74c60fb3a0e53edd78f21f63a9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678849,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e356c8ba209f4460a48b5f85fab68b5b85537507",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678849,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4acdbf6dceeba490b68ea69e766c601fb2b6621a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678849,
+    "Spf2": 67108865,
+    "DominantClass": "other",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "c52972294dc899c0bd85b4b58858236b3a5d83f6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678849,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "89cef179721bf8fafbd7ada56df31998e726bd2f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678849,
+    "Spf2": 134217729,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "bad981d62cd00ee4f2c6beba298e690fd955e93b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678851,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "95dfe95f8da7120149e218d22fb42077365a50e5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678851,
+    "Spf2": 67108865,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "3257dcb5daca03fa24ce3a30ea2db84886839cff",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678857,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "0fc75e37d8c715b5d26b256ddb149bc269c2a7d5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151678857,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "3afd6467562c4dbc4004ae86811729d18f2877f3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151679489,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "6145e242768fc4bc459949eb97ba674e0eabbcc4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151679489,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "70cf72fc7bcd51d8d73d27ffd2ecd39406ee732f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151679491,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 69
+  },
+  {
+    "PermId": "999df1b508f7b70c24dac4317490e5e094b9257d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151679491,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1076
+  },
+  {
+    "PermId": "d637341fe57d0e24529960e34fbf7e9dbf2958e8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151679491,
+    "Spf2": 33554561,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "7918435a4e362b2a20500699e054f3f3f5ed0d79",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151682563,
+    "Spf2": 67108865,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "724453a742ec3a63c67ed264421dbcf2a2669db3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151682563,
+    "Spf2": 67108897,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b527858601a9eb0075b241d82fbc05efdde8b156",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151682571,
+    "Spf2": 67108865,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "c6665ad25bb97c2a053a27ff635c964c3eac4ea7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151682571,
+    "Spf2": 100663297,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "517924a9bfceeda05acd5da272ec8484ce20d03e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151682571,
+    "Spf2": 100663329,
+    "DominantClass": "actors",
+    "OccurrenceCount": 49
+  },
+  {
+    "PermId": "f616a97056300fe445464cd4bab2ed924d0da732",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151683841,
+    "Spf2": 100663329,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "7e7bda1413dbbaaff1cab9d2d0488d5c996d408e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710720,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "67e8d227afa7fb5781fe255d9f46a8cc423b7390",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710720,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "1acbe7ddb6403db9340c80cf0b706bf0296b6d21",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710720,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "c8e47b10d374315dce0d59e750875f11aef0679c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710720,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "cd7017bd9da75572fc2740bc40907b56b6742f0c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710720,
+    "Spf2": 57,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "003f439e5cefa82178961d9706ae06d1a566a7b0",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710721,
+    "Spf2": 48,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "c463cdce948b4883e0a0edee1053bdf3db81183c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710721,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "6300a7c63d62dc8c57f5720f7a7479dcf38bb117",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710728,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0ff1831474bf294de47655d786801d82cbe0c457",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151710729,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2ada8771a2472bbca41218dffc6b9e58501fbbe9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711233,
+    "Spf2": 17,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "02e1cdb786ba547b589f001b807f7380a07d5cce",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711233,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 17
+  },
+  {
+    "PermId": "824999513629578dc098bcba97baba57d63d9364",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711233,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f4ba89ff6ed6a5efa05100a7a47a8d225b38f243",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711233,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "ff92392922d791838030859a8b99dff94342bb6d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711235,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "998edad9d041b5010ec45d8ff303f7a3caf96cf2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711235,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e7a32c7f72363c141cfbec291080f51c558c092e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711235,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "c89a7690ef0dbb221aa8f523ef55a5aaab5b7c24",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711240,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "4318e47b5825f288eb1133a7f8af4b27d4551c9d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711241,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a76d3c537e857cb7ddde2a9abf38ef0e1a77574b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711241,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "07375d3e69e958b8dcb28b5475a19260c94d98fc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711243,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "47d7b656a8a83dd463ec92ad4bbfc085dddfc791",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151711496,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "b11be9ed3b00e0431b9b9d493f28fe77053677ae",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744001,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "4e57785a997ab48559dad4731d68fd71d57e87ea",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744001,
+    "Spf2": 65,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "4c48aa9967c25506930f8a3344fde82156ef7233",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744001,
+    "Spf2": 193,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "5a3dad786e4a0ded6a8b6534f01e8e1c911682d8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744129,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "776a6cd5afe9825df1d192d482a78f2468b51975",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744129,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "6eaaffbf76a7870c4c5a70abed16bf09c527ab7c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744129,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "8c7ea9ff68868db5f597d2f15cb9f38ecd192008",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151744129,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "b73276f8d3a63a69e25cec9f6774beb099fbbe64",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776256,
+    "Spf2": 48,
+    "DominantClass": "decals",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "fd05989d1dfc4c9d4b6e8d3d3c424c1c17af91e9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776256,
+    "Spf2": 49,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "4b49a3e2c257fa592ab2bbac1499a8ebf35418e3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776257,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "c9de2bf2d2d8bba39da6f239ad771ad14d8509d9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776257,
+    "Spf2": 41,
+    "DominantClass": "decals",
+    "OccurrenceCount": 10
+  },
+  {
+    "PermId": "eefcc3ab7a647341fcb7e0c28b5da87db31a3925",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776264,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b6db0fde3a8a03faef14aef874d5a211900393f9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776265,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "e5a6982b3d85a189558ed642ce02f28a35929ef8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776265,
+    "Spf2": 41,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e5d42112c21c77ad0a4561d79e06513426ae3a95",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776768,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "dbc60ceab7957a66120b63cb730c776cb2ac2ac9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776769,
+    "Spf2": 33,
+    "DominantClass": "decals",
+    "OccurrenceCount": 17
+  },
+  {
+    "PermId": "d3ccd1a1c4c19a3f656b26d3b5cdf2e9086f622c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776776,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e916eb1cf9ab68fb09d12198c2532d981000aa91",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151776777,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "d8493d8b5a1c39424781c1be16a88d93d49a0f4e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151809667,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "5010a2d062a22c6928d22cd7fdad411f4c7ad83c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151940611,
+    "Spf2": 2097201,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "caafaeb400aa7472ca64a2dc14b7905582d1fadd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151940627,
+    "Spf2": 208,
+    "DominantClass": "actors",
+    "OccurrenceCount": 30
+  },
+  {
+    "PermId": "1bf10d63b7f2276f0feb24b07538a699e5222570",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2151940627,
+    "Spf2": 240,
+    "DominantClass": "actors",
+    "OccurrenceCount": 699
+  },
+  {
+    "PermId": "23f2d812c5d957300b2e6af428c0bf13ce02e184",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202752,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "7e006956bb8cf4665d725786001592f5f3e9f054",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "a41db2c812d1d83d1ccb267cbeb65df2c36c5b22",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "73943c6266f024262bbadefd8e0d7084fbb4668e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 49,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a940e2a1394f6a1692e12253ac2cd80f498f0f49",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5b26e96e9232a4df0c7d5a6f2822daddf6ce72f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "0290b56d28cff1531daced73e991411e25f50282",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 33554433,
+    "DominantClass": "other",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "b212f204ccd711d00eeefbef49bf9fd4690df1d9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 33554465,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "af99d0ff23da3c474d43f96dfba850fc394041b9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 29
+  },
+  {
+    "PermId": "765b2541a181467031537dae00ed45bf23f7a993",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 536871089,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "098f3ed323d23b7b727e4dea459add9ef3f26a5c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202753,
+    "Spf2": 570425393,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f77f0864440ba431d1585c4235c9f6765849634e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202754,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "8cbbe0b22554339771161000df384bad674e5401",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202761,
+    "Spf2": 536870961,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "e3c923b781151f566df68214cefa3b7ccb28f9e9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152202761,
+    "Spf2": 570425393,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "ace0679572653eb36d3acd3605a6976a65e4696a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2152727041,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "1855f156f1e2dd842f8e347c86d2d1e8f1b1812d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2153775617,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "ffc7b9fae45989acd66b7183c32d145214debcc4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2153775617,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "753fd17e9d9f7c7de8ae9ff721d8b86050d60727",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2153775617,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "d8d1881480fe6fd62f8397ab9d2831659a89e91c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2153775619,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1205
+  },
+  {
+    "PermId": "9cb99f3f96e1ecb95a45bbf3f09fd1ce16d06523",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2153775619,
+    "Spf2": 145,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "bdf0726b3b78c212824352400fa9f5b7dc84ef08",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "678dbc85941c7867156c3bf0a5041747f96764e9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 72
+  },
+  {
+    "PermId": "689ca46b588edc219334b48e5387509d90060a41",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "5946816f554ca63a2994a26901adf40900dd1236",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "58c486dbb1a4cf0b077e9f5ffcd9fde2ddf71431",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 70
+  },
+  {
+    "PermId": "b4fabf1ec080d669978f931bb8157c246c3b01b5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 57,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "f669f8b53d66b8df17c0a3730b760d845fd7052b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "adeb2edbd91affe416b1952da67e19142f096a1d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 137,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "313c051bae4649115188e6781418cf2cdd353cb4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 160,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "27d42e1195f1c61d4189ed3661a1879fba01602f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "2f8cb8258775e34c8cd9b83690b4c7ade0d602e5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 169,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "91949c1b142e84bf162efeed1af86c8553b5fbc8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004544,
+    "Spf2": 185,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a854f114c22446204feffe7afd436bb8ff43c0b4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 141
+  },
+  {
+    "PermId": "2f618869d5ee975056b52964f28b5119b38be983",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 17,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "7cf2cded2d12e5a76bcc861a86a20ddfab6014c6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 41
+  },
+  {
+    "PermId": "c9f5cbe33db47b9b7642aa0016a04ba8e5c330e3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 135
+  },
+  {
+    "PermId": "800a9b379b363ea46156ce173f9281e9fe1e4035",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 57,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "5cad3c25acc4b757b192d9d129a7e5ad5e2d3e9d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 103
+  },
+  {
+    "PermId": "0ad0bdbc6ed1f4b9c8f09dff8fa06dcb95055258",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 137,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "4f7393db01da413e972ee9c4bca43dbbb98790b5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 48
+  },
+  {
+    "PermId": "0a0b1d9429d87a87b13a3b0283c6f9c6b01d629d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 129
+  },
+  {
+    "PermId": "f240f6a76f3635795f0bc2f902a8da7185cfce71",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 67109025,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "db652aae498c0e33303cb1edc0d3c0c9b2a7ce86",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004545,
+    "Spf2": 134217761,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "3112828331580bfdf6d649132e7acadbc7af79b3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004546,
+    "Spf2": 4194449,
+    "DominantClass": "actors",
+    "OccurrenceCount": 996
+  },
+  {
+    "PermId": "b4ba970b13f9c5054f901d9c1681cb2b3d85d9c5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004546,
+    "Spf2": 4194481,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "31a47ce9d8b5b80ea478b323fe6df53ffc158927",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004547,
+    "Spf2": 40,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "d4431dda646b2a9a65cefbe7ebc6315bb7168553",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004547,
+    "Spf2": 57,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "5e63b120a0cd3b99bdf5a6f4cd481b4e0ffa680d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004547,
+    "Spf2": 129,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "6b33ce007522502e314e47a829bbade3f5a06591",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004547,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "fdb57bfb809affe20e4732403da40ac9446234dc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004547,
+    "Spf2": 185,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "964ef3fdc1a69f2397a20fc31b3fbab5879d6bd5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004552,
+    "Spf2": 41,
+    "DominantClass": "other",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "b3605ec4dfb03b40389b7219bcad6c5c98bcbe4e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004552,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "197625f2fd3c8708812e3caa8da384f49659bdd2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 31
+  },
+  {
+    "PermId": "75ccd0fbffcc9d7c7a8491109c18b13f4faa3b08",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 417
+  },
+  {
+    "PermId": "e55a45a145bc363f8fc2ef49f3dbdaaa41e315af",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "4e9cf9db42afa18756b4d839e5d01df5687a32d8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "1495e778b7e1f9e5ea30ed895aa364cda4f793b8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 532
+  },
+  {
+    "PermId": "343b528397fa3f91ff46e08a42a7511dc0d118be",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 67109025,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "be4368344c7bca8efe8b963a6c9ed4867d9b8a2e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 134217761,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 75
+  },
+  {
+    "PermId": "6bce909b5b6e791bb9ff8a36965055308bb46c51",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 134217769,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 38
+  },
+  {
+    "PermId": "b7d715f4fd433410d83d82da07239dcae584ea71",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004553,
+    "Spf2": 134217897,
+    "DominantClass": "other",
+    "OccurrenceCount": 228
+  },
+  {
+    "PermId": "5e771076e2e0126b1b18eb2350a748d1937df3ce",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004555,
+    "Spf2": 57,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "1bc32eabd9ad3feb588b88f8d8c89d3cb13556f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004561,
+    "Spf2": 2097184,
+    "DominantClass": "other",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "1bc32eabd9ad3feb588b88f8d8c89d3cb13556f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004561,
+    "Spf2": 2097184,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f3743a34b63208dde221c40a7e83e78ac25f66c2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004563,
+    "Spf2": 0,
+    "DominantClass": "actors",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "7f61a3c85defbf310e35858a3b4a5b83ff8dba40",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004563,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 100
+  },
+  {
+    "PermId": "ff82bd6f76bbfd382933f1acd700e62c59d48b33",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004563,
+    "Spf2": 2097184,
+    "DominantClass": "actors",
+    "OccurrenceCount": 126
+  },
+  {
+    "PermId": "70a0fd0d710cafd2ca9aee525d52afd76e38af06",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004563,
+    "Spf2": 2097185,
+    "DominantClass": "actors",
+    "OccurrenceCount": 84
+  },
+  {
+    "PermId": "209154401a4a571992deaea64f273516b8e87e45",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004563,
+    "Spf2": 2097312,
+    "DominantClass": "actors",
+    "OccurrenceCount": 175
+  },
+  {
+    "PermId": "96596f19399a74092044bcfb6668e4940ebbb6d7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004563,
+    "Spf2": 2097313,
+    "DominantClass": "actors",
+    "OccurrenceCount": 57
+  },
+  {
+    "PermId": "ce0a3c0e5f22954c196fa18d198c8acc234f82f3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004569,
+    "Spf2": 2097184,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "fa7d09c7e103135c897279476e8ed6bc71a60702",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004571,
+    "Spf2": 160,
+    "DominantClass": "actors",
+    "OccurrenceCount": 190
+  },
+  {
+    "PermId": "d8bd4c2fcba0faf4ec6f0d0d87cf1f6257ab88cd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004571,
+    "Spf2": 2097184,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "ec8caae00d259ccaafa4f862d9c801dd92476dee",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004673,
+    "Spf2": 9,
+    "DominantClass": "other",
+    "OccurrenceCount": 22
+  },
+  {
+    "PermId": "745f7ad5b30b67b7a0f8d90501b1c75acaf57322",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004673,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e29a7047c9c7c5ed5c261e391e0a1764f3f5025d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004673,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "cf5de942eba26f61043c7a5a53771b5aa9d3023a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004673,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 16
+  },
+  {
+    "PermId": "98adb7ce0bb8bc82339aede75674f677a4564dd3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004674,
+    "Spf2": 17,
+    "DominantClass": "actors",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "c626ee416c6c1490c44fd94ed96767b2a8c89850",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004674,
+    "Spf2": 49,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "21e44beb82d4d515109b4ae89698a3a429ae91cb",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004675,
+    "Spf2": 40,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "9fc6801fddcbcbaa839503ca85f479d4c5d10966",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004675,
+    "Spf2": 169,
+    "DominantClass": "actors",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "b4c13126fe508bf77d2cc6c300eda2f774f3eb9c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004681,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "c289a0c0913ccc20c76796877e18ff522d37ec90",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004681,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "fa3275f1ba894bd8bb4e6d62a54b9dcead26b346",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004800,
+    "Spf2": 41,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "0dd01f8795a287bdacd520121784dd2b613c6f87",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004801,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "c0050ffb41c901dc4a159239014917522b52bfb1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004801,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "21d0235d1e9fd27fdd2ac73d0949841cef2c4ce5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004808,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "99c90713bb458235d33e40e5ba15f84c3be0c43e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353004809,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "dfd2700846bfc68008f66d81d65e1b3311d1414f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 0,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "cdbe16221549a965e3f0a5263b473ca565599835",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 20
+  },
+  {
+    "PermId": "0885ada65dfe90aa9413b19ae4f3d56eae8519a3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 25,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "a2f9b739e67abf3cd5d05d6328c6b6ce46c0caec",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 41
+  },
+  {
+    "PermId": "551a9868e7205e42739d8eb471e1415ca08e6381",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 33
+  },
+  {
+    "PermId": "5b0d36082d871efb77e0fb8479a52d2246b45064",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 49,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "946565f28ce3558eeaf1230f4623093af3807fcd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 57,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "dd0fd6e3a15ef930e4d23b6d0093359a524cbf46",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "d96edce56becd519a855f4aba66298355ca622dc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 137,
+    "DominantClass": "other",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "3eced7389f5a932443503db6c835c604787bbee5",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005056,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "e54cc276a83830a1deb54b8a938e8cf487f363ec",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 0,
+    "DominantClass": "decals",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "9fb514b4c01af9fa8881ea9258a3f88240ebfedc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 9,
+    "DominantClass": "other",
+    "OccurrenceCount": 155
+  },
+  {
+    "PermId": "e06fe8b8aa616cc00003b31ad1f8b0704f69118c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 25,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "d5860de9e59d73b60ecc168d9567a9299caa87f7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 196
+  },
+  {
+    "PermId": "0df8b0f9a40b105a15796d0fabea425b2e057d82",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 156
+  },
+  {
+    "PermId": "c74697cf5b85ec1e1f1061da3dfec305c43f5abc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 57,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 47
+  },
+  {
+    "PermId": "d0ae0ae260b000c8004b0c5efac073b741395afc",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "82d1cda1500da3e411b32994b3cce4b9229f5bde",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 92
+  },
+  {
+    "PermId": "174212ac76b459ae08e59f6c2b71a9b69a504ceb",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 137,
+    "DominantClass": "other",
+    "OccurrenceCount": 39
+  },
+  {
+    "PermId": "1791f64f9f97539ac28e9b47f2bb8ad9c498ea88",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 15
+  },
+  {
+    "PermId": "539380e260fc22127497eed091863435cebf6e59",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 37
+  },
+  {
+    "PermId": "730c02cbf851cce82aa0db02e31836bc37bbb764",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 26
+  },
+  {
+    "PermId": "c3d257418980e08da9e6e9be52925fa177a657ec",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 67108873,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "9b67ac6a0bb5b1228e09ce8325808569b7cd8e2f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005057,
+    "Spf2": 67108905,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 18
+  },
+  {
+    "PermId": "61f19f7b2d895fb9256d7e8af7c161558429c699",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005058,
+    "Spf2": 9,
+    "DominantClass": "other",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "8e5117b33137f01b962e765dea83e6a3d9fb189b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005058,
+    "Spf2": 137,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "5ca2cbd16286f0d9829171a2ad2cb352fbc2b37d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005058,
+    "Spf2": 33554481,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "1d05d4749686a9d351cf4a8d21e64c7211a2d442",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005059,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "c17084ad8737e7359337b6657ce78677965b91f2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005059,
+    "Spf2": 41,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "c3fd5c9175b93161fab7afa7fc00e6f1b6dae766",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005059,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "8ac1d4252d9ab011ebf6dd33bb9b61e150ade94c",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005064,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "46a4d5be43c308b2e2f6524c6bc5c766af3edeca",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005064,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "6c4e80666b0483f0d2bae7d3480586b80038805b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 167
+  },
+  {
+    "PermId": "b0c677fcf774ae89d42c16095b26516620ade835",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 306
+  },
+  {
+    "PermId": "7da926941b82c94dcf3d6a69c9ed8446fac75ef4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 49,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 32
+  },
+  {
+    "PermId": "1aea4cf30570d137374b6cd00722cde5d07e8e80",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 57,
+    "DominantClass": "other",
+    "OccurrenceCount": 20
+  },
+  {
+    "PermId": "7ae116f679ead73a10d7cafb551c1ce3351b1957",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 14
+  },
+  {
+    "PermId": "3842b8617d6bc8a1b10392aff1fbff37ca3475bd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 42
+  },
+  {
+    "PermId": "412c6214c5d75c232b2ab9665d91b5b6287bbc84",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 177,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b038eeae5fa48ebba818fd283fcd9afc9490c04b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 67108897,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "7b544eb204164d8881c3c8ab77aa4cb4e681b6c4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 67108905,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 53
+  },
+  {
+    "PermId": "debd88b89e9336b1d174526018633c4ab96457f8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005065,
+    "Spf2": 134217769,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "a908f72d63bae82ecb3f5474158636eaa81b5364",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005067,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "6087a29fce50ab6e06ac766c5e8b814e432e9d8b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 161
+  },
+  {
+    "PermId": "6535b6d465c907d2a79790ee659b48932130042b",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 399
+  },
+  {
+    "PermId": "33e8bc4b1f153b1d0d30c9f2ee6565e07519b272",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 17,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 9
+  },
+  {
+    "PermId": "d1542396397b56bb4712aaeaf0acaf0fe64a2169",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "97fb2eb9b7f7c21e1bbcc5b6ee6c33fb57ab2271",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 41,
+    "DominantClass": "other",
+    "OccurrenceCount": 37
+  },
+  {
+    "PermId": "fccc7ee3cf1d3d9ce5aa54c0da5b8ae30fe0b630",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 19
+  },
+  {
+    "PermId": "de174bf88a22f2b5909a23200e8a40803576313e",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 137,
+    "DominantClass": "other",
+    "OccurrenceCount": 204
+  },
+  {
+    "PermId": "db2e14927029d3eb990c6e86285a44cd529e45aa",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 32
+  },
+  {
+    "PermId": "40a46d17afc934f242547eee5b65d1a2443bb4f7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 161,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "786f8178dc9ced9b40e26afe24d0e19c29d0e3b3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005185,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 73
+  },
+  {
+    "PermId": "924f01408d29e20077927bbb25a2617ade82432f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005187,
+    "Spf2": 0,
+    "DominantClass": "other",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "bfb3e9c2e2191b25acc375202f42978f57057b4f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005187,
+    "Spf2": 17,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "dc2d95ebf43d8fef5f486a3d195b0fff5a991336",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005187,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "c68fd507451d91bde92244bae2f5fabde2ff42c3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005193,
+    "Spf2": 145,
+    "DominantClass": "other",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "039b64893f14b704e4b6725735f2a9cde0114a3f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005193,
+    "Spf2": 169,
+    "DominantClass": "other",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "ecc52101121a34b1733080ec8e1ac5d36d87d337",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005193,
+    "Spf2": 67108913,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "50e074b949f6287d7a60f31f04986a449cbad592",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005193,
+    "Spf2": 67109041,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "371a4870509bccbc83254bbb0c4cf58cc126af2d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005312,
+    "Spf2": 9,
+    "DominantClass": "other",
+    "OccurrenceCount": 12
+  },
+  {
+    "PermId": "fd49005d4428a22a159690892c729cd73eda58e4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005312,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 8
+  },
+  {
+    "PermId": "82ead721c24864fb19d2b8064d31900b82b10ced",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005312,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 24
+  },
+  {
+    "PermId": "e04d5da7bffbe3245f698c443c4d08f0f51ce5f6",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005313,
+    "Spf2": 9,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "eeb8edf2972f43d636a738e4effa6cba3b295b45",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005313,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "629a54722534ae40aa153647d26f8423f54fe9a9",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005313,
+    "Spf2": 67108905,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "ddae19c6563e3a18cb7a1d009926ea7b5c3074ff",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005320,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 11
+  },
+  {
+    "PermId": "b3cc5497a8d3ff2522ff27bf83af5d73b6b688b1",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005321,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "93ff58035cac41362a7d5d701b4ca1870757fc53",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005321,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 6
+  },
+  {
+    "PermId": "fb4dbb4aa6879c21390fb4935487e6bfe5442c21",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005441,
+    "Spf2": 41,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "78d216d00eb6346ee7fcda0d23bbbe71c9433b7a",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353005449,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "3eab13443ee1b1cbbefcb33c815cf5f813b53aa8",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353037441,
+    "Spf2": 41,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b5c81a19589b3e12af4d899d85ef9994cdc2047d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353102849,
+    "Spf2": 40,
+    "DominantClass": "actors",
+    "OccurrenceCount": 4
+  },
+  {
+    "PermId": "ba0ed0322f384b98dd69ef945e1d6fc65eeb39a2",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266691,
+    "Spf2": 2097185,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "25a0fb3684d26b09c5af384ef682ac7153712fe3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266691,
+    "Spf2": 2097313,
+    "DominantClass": "actors",
+    "OccurrenceCount": 81
+  },
+  {
+    "PermId": "507bafbad79aed1a586ba6a4ceb22bffdc4f4b4f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266699,
+    "Spf2": 2097185,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f0285d7eeddcf09cfeb90808238f59a97111f358",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266707,
+    "Spf2": 2097280,
+    "DominantClass": "actors",
+    "OccurrenceCount": 49
+  },
+  {
+    "PermId": "e4113454b6f309c21babfbb3e605775a1feb15b7",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266707,
+    "Spf2": 2097312,
+    "DominantClass": "actors",
+    "OccurrenceCount": 627
+  },
+  {
+    "PermId": "0139cd3f3f58be3cd1f8fe82d509e6812a543532",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266707,
+    "Spf2": 2097313,
+    "DominantClass": "actors",
+    "OccurrenceCount": 483
+  },
+  {
+    "PermId": "387d9095bbf5e5ea180dc68a8a562a64574ed400",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353266715,
+    "Spf2": 2097312,
+    "DominantClass": "actors",
+    "OccurrenceCount": 14
+  },
+  {
+    "PermId": "97d5b59765bd6f76eb794332afe50835b620cfe4",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353267203,
+    "Spf2": 2097201,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "bdb51152bb2275bf990db45b4f66fc629ba94d06",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353267211,
+    "Spf2": 2097185,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "b1947b02a40f96e13678a781c0b8105974a5f5cf",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2353267211,
+    "Spf2": 2097201,
+    "DominantClass": "actors",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "beecff83c664b6e1c3609e72c22e8455547c7fbd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688548864,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 13
+  },
+  {
+    "PermId": "5fe699edb0cfca1eeb92327719ff6bdfa1b1e406",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688548864,
+    "Spf2": 97,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "5acf5463e52e9e1dca1a39dbb87083ee5d3805a3",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688548865,
+    "Spf2": 193,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "f05553456eee8d4b852f0028e0aa7ddd05a835ba",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549376,
+    "Spf2": 65,
+    "DominantClass": "other",
+    "OccurrenceCount": 5
+  },
+  {
+    "PermId": "1c81e35357842d420b8b92a95b208c02b2dc685d",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549377,
+    "Spf2": 65,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 21
+  },
+  {
+    "PermId": "4e3cf334e4f6213684237063dbd5404ce5bcdc90",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549377,
+    "Spf2": 129,
+    "DominantClass": "other",
+    "OccurrenceCount": 2
+  },
+  {
+    "PermId": "13378f035f228c62e9f1c3a8abf8025df00c85ac",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549377,
+    "Spf2": 67108929,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "fbb05c5af40cc51deb082a95429a4cdd1422ba86",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549385,
+    "Spf2": 65,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "1a3625cb2af55796ed633eca465243c91bad6c9f",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549385,
+    "Spf2": 113,
+    "DominantClass": "other",
+    "OccurrenceCount": 32
+  },
+  {
+    "PermId": "8d4f5fdff39e3d5ca5f00f3c7d7a814fd90dc882",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549387,
+    "Spf2": 113,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "47c09b88d226e100731ea250b8b6d551c6977007",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549393,
+    "Spf2": 65,
+    "DominantClass": "decals",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "f01b059819b1b9a04f5e8c0bcd47c397e9218f94",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549395,
+    "Spf2": 97,
+    "DominantClass": "actors",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "e989715c2cd28df675de004be75cbfdcc9500839",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549505,
+    "Spf2": 33,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "ea1d7f7ff7d89de09f7109d9a157b3c8800d8857",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549521,
+    "Spf2": 33,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 7
+  },
+  {
+    "PermId": "1e57a5549f0f6147291817708a3346707bf55355",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549523,
+    "Spf2": 33,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "b57d5ca2a51d4969e4f1b20adac28b87109db018",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2688549523,
+    "Spf2": 161,
+    "DominantClass": "actors",
+    "OccurrenceCount": 3
+  },
+  {
+    "PermId": "2e8ad45647d571add96f3bbac3c8be3a632a9469",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2889875968,
+    "Spf2": 40,
+    "DominantClass": "other",
+    "OccurrenceCount": 1
+  },
+  {
+    "PermId": "90484afb293e3c85e762c674a141118eb2d694fd",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2889875968,
+    "Spf2": 120,
+    "DominantClass": "other",
+    "OccurrenceCount": 22
+  },
+  {
+    "PermId": "1dcb2a6a385549fb2af06faf0ce8915f31887f14",
+    "BlockType": "BSLightingShaderProperty",
+    "ShaderType": 0,
+    "Spf1": 2889875977,
+    "Spf2": 97,
+    "DominantClass": "architecture",
+    "OccurrenceCount": 4
+  }
+]

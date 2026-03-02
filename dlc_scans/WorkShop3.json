@@ -1,0 +1,1407 @@
+{
+  "GeneratedAtUtc": "2026-02-27T08:13:06.0581546Z",
+  "Root": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials",
+  "FileCount": 80,
+  "SuccessCount": 80,
+  "FailureCount": 0,
+  "Failures": [],
+  "Materials": [
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Architecture\\Vault\\DLC06ConcreteWalls02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Architecture\\Vault\\VaultExteriorGearDoor01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Architecture\\Vault\\VaultExteriorGearDoor02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Architecture\\Vault\\VaultExteriorGearDoor03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Clothes\\VaultSuit\\DLC06VaultSuit88tattered.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Clothes\\VaultSuit\\vaultsuitMnumber88.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.5,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "AlphaBlendMode": 2,
+        "Decal": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 4,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Clothes\\VaultSuit\\vaultsuitMnumber88dirty.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.5,
+        "RootMaterialPath": "template/OutfitTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "AlphaBlendMode": 2,
+        "Decal": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 4,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\BrickPile01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\DLC06VaultLimestone01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.6,
+        "RootMaterialPath": "Template/BrickTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\DLC06VFloorTiles07Nursery.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\DLC06VltHallResXPanel01Red.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\DLC06VltHallResXPanel02Blue.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\DLC06VltSignWelcome88_01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VaultNumber88.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar02Alpha.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar03Red.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar04.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar04Red.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar05Frame01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcar06Frame02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBoxcarDecals01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 21,
+        "AlphaTest": true,
+        "Decal": true,
+        "DecalNoFade": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltBrickPile01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShop01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShop02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShop02Cave01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.6,
+        "Smoothness": 0.6,
+        "RootMaterialPath": "Template/BrickTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShop02Cave02Edge.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.84,
+        "Smoothness": 0.8,
+        "RootMaterialPath": "Template/BrickTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "TileV": false,
+        "UScale": 2,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShop03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShop05Hazard.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.3,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 160,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopBoulderFade01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtDecal01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtPile01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtPile01QUARRY.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtPile02Decal.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtPile02FadetoDirtRight.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtPile02QUARRYDecal.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopDirtPile03FadetoDirtLeft.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Interiors\\Vault\\VltWorkShopMarbleEdge01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.84,
+        "Smoothness": 0.8,
+        "RootMaterialPath": "Template/BrickTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "TileV": false,
+        "UScale": 2,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Landscape\\DLC06DirtGravelAlpha\\DLC06DirtGravelAlpha01Decal.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/DirtTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTest": true,
+        "Decal": true,
+        "DecalNoFade": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Landscape\\DLC06RocksUranium\\DLC06UranRockslab1.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.7,
+        "Smoothness": 0.6,
+        "RootMaterialPath": "template/RockSlabTemplate_Wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 8565840,
+        "EmittanceMult": 0.75,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 0,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Landscape\\DLC06RocksUranium\\DLC06UranRockslab2.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.75,
+        "Smoothness": 0.75,
+        "RootMaterialPath": "template/RockSlabTemplate_Wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 8565840,
+        "EmittanceMult": 0.75,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 0,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Props\\DLC06SuperReactorBase01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Props\\DLC06SuperReactorCore01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Props\\DLC06SuperReactorLeaf01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Props\\DLC06SuperReactorLeaf02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Props\\PipboyCrate\\PipBoyCrate.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\Props\\Vlt88OverseerMap01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\BarberMirror\\DLC06BarberMirror.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.2,
+        "Smoothness": 0.2,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\HighTech\\HighTechAshtray01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\HighTech\\HighTechTable01_Clean.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\HighTech\\HighTechTable02_Clean.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\HighTech\\HighTechTableRound01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanBlack.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanBlue.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanGreen.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanPink.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanPurple.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanRed.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanWhite.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Industrial\\IndustrialMetalDiningChair01CleanYellow.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Jukebox\\Jukebox01Clean.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 16777215,
+        "BaseColorScale": 0.5,
+        "LightingInfluence": 0.98,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "ScreenSpaceReflections": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 1.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Jukebox\\Jukebox01Clean.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.25,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\OverseerDesk\\OverseerDesk01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Phoropter\\Phoropter01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Phoropter\\Phoropter02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\PommelHorse\\PommelHorse01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\SlotMachine\\SlotMachine01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\StationaryBike\\StationaryBike01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Vault\\DLC06_VaultSuitPackage88.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 15859667,
+        "SpecularMult": 0.6,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.7,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Vault\\DLC06VaultSafetyPosterPaperAlpha.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Vault\\DLC06VaultSignsConstruction01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Vault\\DLC06VaultSignsSector01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\Vault\\DLC06VltSignage01Nav.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\VaultCharacterStatues\\VaultBoyStatue01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\VaultCharacterStatues\\VaultGirlStatue01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\VaultRadioTransmitter\\DLC06VaultRadioTransmitter01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\VaultWorkbench\\DLC06VaultWorkbench.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop3\\Materials\\DLC06\\SetDressing\\WeightBench\\WeightBench01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    }
+  ]
+}

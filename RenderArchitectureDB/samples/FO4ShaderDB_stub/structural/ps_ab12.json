@@ -1,0 +1,8 @@
+{
+  "instruction_count": 812,
+  "texture_count": 4,
+  "cube_count": 1,
+  "cbuffer_layout_hash": "ff89aa",
+  "resource_signature": "Texture2D:4|TextureCube:1|Sampler:3",
+  "fingerprint": "struct_9f21"
+}

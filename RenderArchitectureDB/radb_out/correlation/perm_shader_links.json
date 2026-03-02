@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "correlation_model_version": "1.0",
+  "links": [
+    {
+      "PermId": "08278bf06c80713bfe008600cc56e0d14ddd7766",
+      "ShaderId": "ps_dummy_001",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "0b76857a15e663dbda0de13c8e96cb7ec1c2dab7",
+      "ShaderId": "ps_dummy_002",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "3112828331580bfdf6d649132e7acadbc7af79b3",
+      "ShaderId": "ps_dummy_003",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "3a830e2b82794727a480dc5f41d3d1f60bb53262",
+      "ShaderId": "ps_dummy_001",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "3bdddf3ecda0f80a65a768060177527dc63e4604",
+      "ShaderId": "ps_dummy_002",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "4f4ddd65c6a38cbaa7135761c4d3ae450cc4bdc0",
+      "ShaderId": "ps_dummy_003",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "5794ffc67cb22fbd685f10d86c361747e6997e73",
+      "ShaderId": "ps_dummy_001",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "6bd2a34cfc16a527b97e6b3717f97acd32fd59d8",
+      "ShaderId": "ps_dummy_002",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "7af6d34cc707ab5cdad367bcf5fbbcc5bce63b23",
+      "ShaderId": "ps_dummy_003",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "7fdd27742ace6985796decffad1e2eada6f84a89",
+      "ShaderId": "ps_dummy_001",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "83d770d6b0df68c069979f4eaf63f349d7b74677",
+      "ShaderId": "ps_dummy_002",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "85655154dba1807d80bd29600f9d82ade5e1880d",
+      "ShaderId": "ps_dummy_003",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "a3992273089f0f685763994077a86b72480107b0",
+      "ShaderId": "ps_dummy_001",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "acf3ccf76ef9b54ec75e0cddbd3391e8343070bd",
+      "ShaderId": "ps_dummy_002",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "b126be896eaa7ae13033a5fa7d25e8c1ac762a4f",
+      "ShaderId": "ps_dummy_003",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    },
+    {
+      "PermId": "c5f0ac761f58dd6d1544dac8e31e751bcf27ac6a",
+      "ShaderId": "ps_dummy_001",
+      "Stage": "PS",
+      "EvidenceCount": 5,
+      "ConfidenceScore": 0.5,
+      "MappingType": "DirectObservation"
+    }
+  ]
+}

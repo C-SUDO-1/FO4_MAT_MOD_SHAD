@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "clusters": [
+    {
+      "ClusterId": "cluster_0001",
+      "Fingerprint": "37eac41d923d5d5293b987ade0b7ef75b1eb5d36",
+      "ShaderIds": [
+        "ps_dummy_001",
+        "ps_dummy_002"
+      ],
+      "InstructionBucket": "0-199"
+    },
+    {
+      "ClusterId": "cluster_0002",
+      "Fingerprint": "9b4e838dc1b2116b3be6c7e69521fb6bb848a33e",
+      "ShaderIds": [
+        "ps_dummy_003"
+      ],
+      "InstructionBucket": "0-199"
+    }
+  ]
+}

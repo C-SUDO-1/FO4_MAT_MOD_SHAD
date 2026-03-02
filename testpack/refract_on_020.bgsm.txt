@@ -1,0 +1,33 @@
+﻿{
+  "Version": 2,
+  "TileU": true,
+  "TileV": true,
+  "UOffset": 0,
+  "VOffset": 0,
+  "UScale": 1,
+  "VScale": 1,
+  "Alpha": 1,
+  "AlphaBlendMode": 0,
+  "AlphaTestRef": 128,
+  "AlphaTest": false,
+  "ZBufferWrite": true,
+  "ZBufferTest": true,
+  "ScreenSpaceReflections": false,
+  "WetnessControlScreenSpaceReflections": false,
+  "Decal": false,
+  "TwoSided": false,
+  "DecalNoFade": false,
+  "NonOccluder": false,
+  "Refraction": true,
+  "RefractionFalloff": false,
+  "RefractionPower": 0.2,
+  "EnvironmentMapping": false,
+  "EnvironmentMappingMaskScale": 1,
+  "DepthBias": false,
+  "GrayscaleToPaletteColor": false,
+  "MaskWrites": 63
+}
+
+ALIASES (BGSM)
+  Roughness -> Smoothness (stored as 1 - Roughness)
+  Specular  -> SpecularMult

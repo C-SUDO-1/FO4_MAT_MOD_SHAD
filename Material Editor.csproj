@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows10.0.22621.0</TargetFramework>
+    <RootNamespace>Material_Editor</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Material_Editor.Program</StartupObject>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <Copyright>Copyright © 2015 - 2025</Copyright>
+    <Company>ousnius</Company>
+    <Authors>ousnius</Authors>
+    <Version>1.9.1</Version>
+    <PackageProjectUrl>https://github.com/ousnius/Material-Editor</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MaterialLib.Tests\**" />
+    <Compile Remove="MaterialLib\**" />
+    <EmbeddedResource Remove="MaterialLib.Tests\**" />
+    <EmbeddedResource Remove="MaterialLib\**" />
+    <None Remove="MaterialLib.Tests\**" />
+    <None Remove="MaterialLib\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="MaterialLib\MaterialLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

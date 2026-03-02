@@ -1,0 +1,271 @@
+{
+  "protocol_name": "FO4_NIF_Bulk_Edit_Pipeline_for_SSS",
+  "version": "0.1.0",
+  "generated_at": "2026-02-27T19:04:11.830632+00:00",
+  "goals": [
+    "Build a bulk pipeline for Fallout 4 NIF mesh inspection and editing similar to MaterialCli for BGSM/BGEM.",
+    "Enable/force subsurface-scatter-like rendering globally where supported by shader permutations.",
+    "Keep edits reversible and diffable; rely on loose file overrides first."
+  ],
+  "assumptions": [
+    "Meshes and materials are extracted as loose files (e.g., D:\\FO4_Corpus_Vanilla\\Meshes and \\Materials).",
+    "You already have MaterialCli for BGSM/BGEM and a schema.json describing fields."
+  ],
+  "key_hypotheses": [
+    "SSS support is gated by mesh shader property permutation (BSLightingShaderProperty flags) and not only by BGSM parameters.",
+    "Many vanilla grass BGSMs do not enable SubsurfaceLighting; if SSS is observed, it likely comes from mesh flags/permutation or a different shader template."
+  ],
+  "inputs": {
+    "mesh_roots": [
+      "D:\\FO4_Corpus_Vanilla\\Meshes",
+      "D:\\FO4_Corpus_Vanilla\\DLC\\*\\Meshes"
+    ],
+    "material_roots": [
+      "D:\\FO4_Corpus_Vanilla\\Materials",
+      "D:\\FO4_Corpus_Vanilla\\DLC\\*\\Materials"
+    ],
+    "schema_path": "schema.json"
+  },
+  "outputs": {
+    "scan_reports": [
+      "mesh_scan.json (per-mesh shader property summary + referenced materials/textures)",
+      "mesh_edit_plan.csv (planned changes per file)",
+      "mesh_patch_log.jsonl (what was changed and why)"
+    ],
+    "edited_mesh_root": "<mod staging>\\Meshes (loose override)"
+  },
+  "recommended_tools": [
+    "PyNifly / Nifly (GitHub project used by Blender NIF workflows) for programmatic read/write of FO4 NIFs",
+    "NifSkope / Outfit Studio for spot-checking edited NIFs",
+    "xEdit for record-level validation (optional)",
+    "BA2 repacker once stable (optional)"
+  ],
+  "pipeline_steps": [
+    {
+      "step": "01_inventory",
+      "description": "Enumerate all .nif under mesh roots; compute hashes; store manifest.",
+      "powershell": [
+        "$meshRoots = @(\"D:\\FO4_Corpus_Vanilla\\Meshes\",\"D:\\FO4_Corpus_Vanilla\\DLC\\*\\Meshes\")",
+        "$nifs = foreach($r in $meshRoots){ Get-ChildItem $r -Recurse -Filter *.nif -File -ErrorAction SilentlyContinue }",
+        "$nifs | Select-Object FullName,Length,LastWriteTime | Export-Csv .\\mesh_manifest.csv -NoTypeInformation"
+      ]
+    },
+    {
+      "step": "02_scan_shader_properties",
+      "description": "For each NIF, extract BSLightingShaderProperty (and other shader property blocks), especially Shader Flags 1/2, shader type, and material paths. Write a compact JSON/CSV report.",
+      "notes": "Implementation requires a NIF library capable of FO4 NIF (BSLightingShaderProperty)."
+    },
+    {
+      "step": "03_classify",
+      "description": "Classify meshes into groups by shader type/permutation (e.g., foliage, skin, hair, cloth, glass/water) using shader flags and property settings.",
+      "deliverable": "mesh_classification.csv"
+    },
+    {
+      "step": "04_edit_rules",
+      "description": "Define deterministic edit rules: which shader flags to toggle, when to force TwoSided, when to keep ZWrite, etc. Rules must be reversible.",
+      "example_rules": [
+        {
+          "target_group": "foliage",
+          "actions": [
+            "Enable subsurface-related flag if present",
+            "Force TwoSided=true if appropriate"
+          ],
+          "constraints": [
+            "Do not touch collision blocks",
+            "Do not change vertex data"
+          ]
+        },
+        {
+          "target_group": "architecture",
+          "actions": [
+            "No SSS changes by default"
+          ],
+          "constraints": [
+            "Avoid breaking LOD meshes"
+          ]
+        }
+      ]
+    },
+    {
+      "step": "05_apply_patches",
+      "description": "Copy NIF to staging folder, apply edits, write patch log with before/after flag values.",
+      "safety": "Never edit the extracted corpus in-place; always stage to a mod folder."
+    },
+    {
+      "step": "06_validate",
+      "description": "Spot-check in NifSkope; in-game validation in a controlled lighting cell; compare screenshots; revert quickly using manifest."
+    }
+  ],
+  "bgsm_parameters": [
+    "AdaptativeEmissive_ExposureOffset",
+    "AdaptativeEmissive_FinalExposureMax",
+    "AdaptativeEmissive_FinalExposureMin",
+    "Alpha",
+    "AlphaBlendMode",
+    "AlphaTest",
+    "AlphaTestRef",
+    "AnisoLighting",
+    "AssumeShadowmask",
+    "BackLighting",
+    "BackLightPower",
+    "CastShadows",
+    "CustomPorosity",
+    "Decal",
+    "DecalNoFade",
+    "DepthBias",
+    "DiffuseTexture",
+    "DisplacementTexture",
+    "DisplacementTextureBias",
+    "DisplacementTextureScale",
+    "DissolveFade",
+    "DistanceFieldAlphaTexture",
+    "EmitEnabled",
+    "EmittanceColor",
+    "EmittanceMult",
+    "EnableEditorAlphaRef",
+    "EnvironmentMapping",
+    "EnvironmentMappingEye",
+    "EnvironmentMappingMaskScale",
+    "EnvironmentMappingWindow",
+    "EnvmapTexture",
+    "ExternalEmittance",
+    "Facegen",
+    "FlowTexture",
+    "FresnelPower",
+    "Glowmap",
+    "GlowTexture",
+    "GrayscaleToPaletteColor",
+    "GrayscaleToPaletteScale",
+    "GreyscaleTexture",
+    "Hair",
+    "HairTintColor",
+    "HideSecret",
+    "InnerLayerTexture",
+    "LightingTexture",
+    "LumEmittance",
+    "MaskWrites",
+    "ModelSpaceNormals",
+    "NonOccluder",
+    "NormalTexture",
+    "PBR",
+    "PorosityValue",
+    "ReceiveShadows",
+    "Refraction",
+    "RefractionFalloff",
+    "RefractionPower",
+    "RimLighting",
+    "RimPower",
+    "RootMaterialPath",
+    "ScreenSpaceReflections",
+    "SkewSpecularAlpha",
+    "SkinTint",
+    "Smoothness",
+    "SmoothSpecTexture",
+    "SpecularColor",
+    "SpecularEnabled",
+    "SpecularMult",
+    "SpecularTexture",
+    "SubsurfaceLighting",
+    "SubsurfaceLightingRolloff",
+    "Terrain",
+    "TerrainRotationAngle",
+    "TerrainThresholdFalloff",
+    "TerrainTilingDistance",
+    "Tessellate",
+    "TessellationBaseFactor",
+    "TessellationFadeDistance",
+    "TessellationPnScale",
+    "TileU",
+    "TileV",
+    "Translucency",
+    "TranslucencyMixAlbedoWithSubsurfaceColor",
+    "TranslucencySubsurfaceColor",
+    "TranslucencyThickObject",
+    "TranslucencyTransmissiveScale",
+    "TranslucencyTurbulence",
+    "Tree",
+    "TwoSided",
+    "UnkInt1",
+    "UOffset",
+    "UScale",
+    "UseAdaptativeEmissive",
+    "Version",
+    "VOffset",
+    "VScale",
+    "WetnessControlEnvMapScale",
+    "WetnessControlFresnelPower",
+    "WetnessControlMetalness",
+    "WetnessControlScreenSpaceReflections",
+    "WetnessControlSpecMinvar",
+    "WetnessControlSpecPowerScale",
+    "WetnessControlSpecScale",
+    "WrinklesTexture",
+    "ZBufferTest",
+    "ZBufferWrite"
+  ],
+  "bgem_parameters": [
+    "AdaptativeEmissive_ExposureOffset",
+    "AdaptativeEmissive_FinalExposureMax",
+    "AdaptativeEmissive_FinalExposureMin",
+    "Alpha",
+    "AlphaBlendMode",
+    "AlphaTest",
+    "AlphaTestRef",
+    "BaseColor",
+    "BaseColorScale",
+    "BaseTexture",
+    "BloodEnabled",
+    "Decal",
+    "DecalNoFade",
+    "DepthBias",
+    "EffectLightingEnabled",
+    "EffectPbrSpecular",
+    "EmittanceColor",
+    "EnvironmentMapping",
+    "EnvironmentMappingMaskScale",
+    "EnvmapMaskTexture",
+    "EnvmapMinLOD",
+    "EnvmapTexture",
+    "FalloffColorEnabled",
+    "FalloffEnabled",
+    "FalloffStartAngle",
+    "FalloffStartOpacity",
+    "FalloffStopAngle",
+    "FalloffStopOpacity",
+    "GlassBlurScaleBase",
+    "GlassBlurScaleFactor",
+    "GlassDirtOverlay",
+    "GlassEnabled",
+    "GlassFresnelColor",
+    "GlassRefractionScaleBase",
+    "GlassRoughnessScratch",
+    "Glowmap",
+    "GlowTexture",
+    "GrayscaleTexture",
+    "GrayscaleToPaletteAlpha",
+    "GrayscaleToPaletteColor",
+    "LightingInfluence",
+    "LightingTexture",
+    "MaskWrites",
+    "NonOccluder",
+    "NormalTexture",
+    "Refraction",
+    "RefractionFalloff",
+    "RefractionPower",
+    "ScreenSpaceReflections",
+    "SoftDepth",
+    "SoftEnabled",
+    "SpecularTexture",
+    "TileU",
+    "TileV",
+    "TwoSided",
+    "UOffset",
+    "UScale",
+    "Version",
+    "VOffset",
+    "VScale",
+    "WetnessControlScreenSpaceReflections",
+    "ZBufferTest",
+    "ZBufferWrite"
+  ]
+}

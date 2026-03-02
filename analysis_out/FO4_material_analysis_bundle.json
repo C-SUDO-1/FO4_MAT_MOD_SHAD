@@ -1,0 +1,265 @@
+﻿{
+    "Summary":  {
+                    "GeneratedAt":  "2026-02-27T16:25:50",
+                    "BaseMaterialCount":  6911,
+                    "DlcMaterialCount":  2124,
+                    "TotalMaterialCount":  9035,
+                    "BGSM_TotalFields":  105,
+                    "BGEM_TotalFields":  63,
+                    "Base_UsedFieldCount":  82,
+                    "Dlc_UsedFieldCount":  66,
+                    "Union_UsedFieldCount":  83,
+                    "BGSM_DormantCount":  36,
+                    "RefractionHitCount":  1
+                },
+    "PerDlc":  [
+                   {
+                       "DLC":  "Automaton",
+                       "Count":  202,
+                       "NewFields":  ""
+                   },
+                   {
+                       "DLC":  "FarHarbor",
+                       "Count":  508,
+                       "NewFields":  "Refraction"
+                   },
+                   {
+                       "DLC":  "NukaWorld",
+                       "Count":  836,
+                       "NewFields":  ""
+                   },
+                   {
+                       "DLC":  "WorkShop1",
+                       "Count":  339,
+                       "NewFields":  ""
+                   },
+                   {
+                       "DLC":  "WorkShop2",
+                       "Count":  159,
+                       "NewFields":  ""
+                   },
+                   {
+                       "DLC":  "WorkShop3",
+                       "Count":  80,
+                       "NewFields":  ""
+                   }
+               ],
+    "RootTop50":  [
+                      {
+                          "RootMaterialPath":  "\u003cdefault\u003e",
+                          "Count":  4729
+                      },
+                      {
+                          "RootMaterialPath":  "template/defaulttemplate_wet.bgsm",
+                          "Count":  923
+                      },
+                      {
+                          "RootMaterialPath":  "template/armortemplate_wet.bgsm",
+                          "Count":  600
+                      },
+                      {
+                          "RootMaterialPath":  "template/metaltemplate_wet.bgsm",
+                          "Count":  572
+                      },
+                      {
+                          "RootMaterialPath":  "template/weaponmetaltemplate_wet.bgsm",
+                          "Count":  391
+                      },
+                      {
+                          "RootMaterialPath":  "template/creaturetemplate_wet.bgsm",
+                          "Count":  282
+                      },
+                      {
+                          "RootMaterialPath":  "template/vehicletemplate_wet.bgsm",
+                          "Count":  221
+                      },
+                      {
+                          "RootMaterialPath":  "template/outfittemplate_wet.bgsm",
+                          "Count":  220
+                      },
+                      {
+                          "RootMaterialPath":  "template/woodtemplate_wet.bgsm",
+                          "Count":  167
+                      },
+                      {
+                          "RootMaterialPath":  "template/bricktemplate_wet.bgsm",
+                          "Count":  131
+                      },
+                      {
+                          "RootMaterialPath":  "template/dirttemplate_wet.bgsm",
+                          "Count":  106
+                      },
+                      {
+                          "RootMaterialPath":  "template/leaftemplate_wet.bgsm",
+                          "Count":  77
+                      },
+                      {
+                          "RootMaterialPath":  "template/clothtemplate_cotton_wet.bgsm",
+                          "Count":  56
+                      },
+                      {
+                          "RootMaterialPath":  "template/grasstemplate_wet.bgsm",
+                          "Count":  56
+                      },
+                      {
+                          "RootMaterialPath":  "template/vehicletemplatedim_wet.bgsm",
+                          "Count":  47
+                      },
+                      {
+                          "RootMaterialPath":  "template/rocktemplate_wet.bgsm",
+                          "Count":  44
+                      },
+                      {
+                          "RootMaterialPath":  "template/capmetaltemplate_wet.bgsm",
+                          "Count":  41
+                      },
+                      {
+                          "RootMaterialPath":  "template/asphalttemplate_wet.bgsm",
+                          "Count":  37
+                      },
+                      {
+                          "RootMaterialPath":  "template/vehiclebustemplate_wet.bgsm",
+                          "Count":  35
+                      },
+                      {
+                          "RootMaterialPath":  "template/weaponplastictemplate_wet.bgsm",
+                          "Count":  33
+                      },
+                      {
+                          "RootMaterialPath":  "template/outfittemplate4_wet.bgsm",
+                          "Count":  30
+                      },
+                      {
+                          "RootMaterialPath":  "template/skintemplate_wet.bgsm",
+                          "Count":  29
+                      },
+                      {
+                          "RootMaterialPath":  "template/outfittemplate5_wet.bgsm",
+                          "Count":  27
+                      },
+                      {
+                          "RootMaterialPath":  "template/weaponwoodtemplate_wet.bgsm",
+                          "Count":  26
+                      },
+                      {
+                          "RootMaterialPath":  "template/concretetemplate_wet.bgsm",
+                          "Count":  24
+                      },
+                      {
+                          "RootMaterialPath":  "template/clothtemplate_wool_wet.bgsm",
+                          "Count":  16
+                      },
+                      {
+                          "RootMaterialPath":  "template/outfittemplate3_wet.bgsm",
+                          "Count":  16
+                      },
+                      {
+                          "RootMaterialPath":  "template/defaulttemplatedim_wet.bgsm",
+                          "Count":  12
+                      },
+                      {
+                          "RootMaterialPath":  "template/furtemplate_wet.bgsm",
+                          "Count":  11
+                      },
+                      {
+                          "RootMaterialPath":  "template/rubbertemplate_wet.bgsm",
+                          "Count":  11
+                      },
+                      {
+                          "RootMaterialPath":  "template/rockslabtemplate_wet.bgsm",
+                          "Count":  11
+                      },
+                      {
+                          "RootMaterialPath":  "template/clothtemplate_felt_wet.bgsm",
+                          "Count":  9
+                      },
+                      {
+                          "RootMaterialPath":  "template/crackedmudtemplate_wet.bgsm",
+                          "Count":  8
+                      },
+                      {
+                          "RootMaterialPath":  "template/metaltemplate.bgsm",
+                          "Count":  7
+                      },
+                      {
+                          "RootMaterialPath":  "template/outfittemplate2_wet.bgsm",
+                          "Count":  7
+                      },
+                      {
+                          "RootMaterialPath":  "template/clothtemplate_cotton.bgsm",
+                          "Count":  7
+                      },
+                      {
+                          "RootMaterialPath":  "template/wroughtironmetaltemplate_wet.bgsm",
+                          "Count":  4
+                      },
+                      {
+                          "RootMaterialPath":  "template/metaltemplate_brushed.bgsm",
+                          "Count":  3
+                      },
+                      {
+                          "RootMaterialPath":  "template/wetriverrocktemplate_wet.bgsm",
+                          "Count":  3
+                      },
+                      {
+                          "RootMaterialPath":  "template/basicsmooth.bgsm",
+                          "Count":  3
+                      },
+                      {
+                          "RootMaterialPath":  "template/woodtemplate.bgsm",
+                          "Count":  2
+                      },
+                      {
+                          "RootMaterialPath":  "template/rocktemplate.bgsm",
+                          "Count":  1
+                      }
+                  ],
+    "Refraction":  [
+                       {
+                           "Path":  "D:\\FO4_Corpus_Vanilla\\DLC\\FarHarbor\\Materials\\DLC03\\Actors\\RoboBrain\\DLC03_RobobrainGlassWarp.BGSM",
+                           "Kind":  "BGSM",
+                           "RootMaterialPath":  null,
+                           "Refraction":  true,
+                           "RefractionPower":  0.055,
+                           "RefractionFalloff":  null
+                       }
+                   ],
+    "BgsmDormant":  [
+                        "AdaptativeEmissive_ExposureOffset",
+                        "AdaptativeEmissive_FinalExposureMax",
+                        "AdaptativeEmissive_FinalExposureMin",
+                        "CustomPorosity",
+                        "DepthBias",
+                        "DiffuseTexture",
+                        "DisplacementTexture",
+                        "DistanceFieldAlphaTexture",
+                        "EnvmapTexture",
+                        "FlowTexture",
+                        "GlowTexture",
+                        "GreyscaleTexture",
+                        "HideSecret",
+                        "InnerLayerTexture",
+                        "LightingTexture",
+                        "LumEmittance",
+                        "MaskWrites",
+                        "NormalTexture",
+                        "PBR",
+                        "PorosityValue",
+                        "SmoothSpecTexture",
+                        "SpecularTexture",
+                        "Terrain",
+                        "TerrainRotationAngle",
+                        "TerrainThresholdFalloff",
+                        "TerrainTilingDistance",
+                        "TessellationFadeDistance",
+                        "Translucency",
+                        "TranslucencyMixAlbedoWithSubsurfaceColor",
+                        "TranslucencySubsurfaceColor",
+                        "TranslucencyThickObject",
+                        "TranslucencyTransmissiveScale",
+                        "TranslucencyTurbulence",
+                        "UnkInt1",
+                        "UseAdaptativeEmissive",
+                        "WrinklesTexture"
+                    ]
+}

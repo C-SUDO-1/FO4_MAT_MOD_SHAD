@@ -1,0 +1,5638 @@
+{
+  "GeneratedAtUtc": "2026-02-27T08:13:05.8388062Z",
+  "Root": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials",
+  "FileCount": 339,
+  "SuccessCount": 339,
+  "FailureCount": 0,
+  "Failures": [],
+  "Materials": [
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\Actors\\Gorilla\\DLC02Gorilla.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13157592,
+        "SpecularMult": 4.36,
+        "RootMaterialPath": "template/CreatureTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\Architecture\\MetalTrimRustedA.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\DLC02CageMeshTwoSided01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.5,
+        "Smoothness": 0.6,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\DLC02ConcreteWalls01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.25,
+        "RootMaterialPath": "Template/ConcreteTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\DLC02ConcreteWalls02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\DLC02WorkshopBetaWaveEmitter01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 9211537,
+        "SpecularMult": 0.6,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\DLC02WorkshopBetaWaveEmitterTripod01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.75,
+        "Smoothness": 0.6,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.25,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Machinery\\FusionPowerGenerator.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\SmallLetter\\SmallLetter01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonBlueMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 65535,
+        "EmittanceMult": 1.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonGreenMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 7405424,
+        "EmittanceMult": 1.25,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-0.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-1.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-2.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-3.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-4.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-5.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-6.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-7.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-8.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-9.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-A.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.08333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-B.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.25,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 4194303,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-ExclamationnMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 4194303,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 4194303,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 4194303,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 4194303,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 4194303,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Blue-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 65535,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-C.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.40999,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-D.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.58333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-E.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.75,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-ExclamationMark.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-F.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.16666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-G.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.24999334,
+        "VOffset": 0.16666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-ExclamationnMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Green-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 7405424,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-H.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.91663,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Hyphen.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-I.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.91663,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-J.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.16666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-K.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.16666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-L.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.75,
+        "VOffset": 0.16666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-M.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-N.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.24999,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-O.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-ExclamationnMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.58333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Orange-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16730656,
+        "BaseColorScale": 2,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-P.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-ExclamationnMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Purple-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 11878655,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Q.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-QuestionMark.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-QuotationMarks.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.58333,
+        "VOffset": 0.8333333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-R.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-ExclamationMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.583333,
+        "VOffset": 0.83333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Red-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16723235,
+        "BaseColorScale": 2,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-S.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-T.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-U.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.166,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-V.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-W.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-ExclamationMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.583333,
+        "VOffset": 0.83333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-White-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 1.5,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-X.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Y.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.083333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.41666666,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.5833333,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "VOffset": 0.666666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.16666666,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.333333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.08333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.40999,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-ExclamationnMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.9175,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.08333,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-Hyphen.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.5,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.40999,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58331,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "VOffset": 0.1666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.08333,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.25,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.40999,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58331,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.8333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-QuotationMarks.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.58333,
+        "VOffset": 0.8333333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.75,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.16666,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.16666,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.333333,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.91663,
+        "VOffset": 0.33333,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Yellow-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16645952,
+        "BaseColorScale": 1.25,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonLetterKit01-Z.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.664,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonOrangeMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 16744256,
+        "EmittanceMult": 1.25,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonPurpleMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 11878655,
+        "EmittanceMult": 1.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonRedMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 16711680,
+        "EmittanceMult": 2,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonWhiteMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 1.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\NeonSignage\\NeonYellowMenu01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 16645952,
+        "EmittanceMult": 1.25,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "UOffset": 0.9166667,
+        "VOffset": 0.666666,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\Traps\\DLC02_SawbladeTrap01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\Traps\\DLC02_SpikeTrapTop01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop1\\Materials\\DLC02\\SetDressing\\Workshop\\Traps\\DLC02_SpringTrap01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.2,
+        "Smoothness": 0.9,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    }
+  ]
+}

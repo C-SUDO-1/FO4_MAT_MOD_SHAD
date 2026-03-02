@@ -1,0 +1,3614 @@
+{
+  "GeneratedAtUtc": "2026-02-27T08:13:05.4810821Z",
+  "Root": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials",
+  "FileCount": 202,
+  "SuccessCount": 202,
+  "FailureCount": 0,
+  "Failures": [],
+  "Materials": [
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\Actors\\Robot\\ConstructionRobotKit.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\Actors\\Robot\\WAstelandRobotKit.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 10,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\deathclaw_skull.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronArmsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronArmsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronArmsRemapSp_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronBladeHandsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronBladeHandsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronBladeHandsRemapSp_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronHandsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronHandsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronHandsRemapSp_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronHeadRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronHeadRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronHeadRemapSp_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronLegsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronLegsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronLegsRemapSp_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronMissileHandRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronShoulderMissileRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronTorsoRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronTorsoRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01AssaultronTorsoRemapSp_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ConstructionKit_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.97,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ConstructionKit01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.97,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.3,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmorRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "RimLighting": true,
+        "RimPower": 0.1,
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmorRemap_military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "RimLighting": true,
+        "RimPower": 0.1,
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmorRemap_militaryB.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmorRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "RimLighting": true,
+        "RimPower": 0.1,
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmorRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16570835,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmsRemap_military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16570835,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmsRemap_militaryB.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16570835,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmsRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16570835,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyArmsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16570835,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyLegsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "SpecularMult": 1.55,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyLegsRemap_military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "SpecularMult": 1.55,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyLegsRemap_militaryB.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "SpecularMult": 1.55,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyLegsRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "SpecularMult": 1.55,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01HandyLegsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13882364,
+        "SpecularMult": 1.55,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap_rusty.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap_Stained.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmorRemap01_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap_rusty.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap_stained.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronArmsRemap01_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronDrillgunRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronDrillgunRemap_military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronDrillgunRemap_militaryB.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronDrillgunRemap_sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronDrillgunRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap_rusty.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap_stained.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronHandsRemap01_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap_rusty.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap_stained.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01ProtectronLegsRemap01_Military.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainArmsRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainArmsRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainArmsRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainBodyRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainBodyRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainBodyRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainBottomRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainBottomRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainBottomRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainHandsRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainHandsRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainHandsRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainHeadRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainHeadRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainHeadRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainTracksRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainTracksRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01RobobrainTracksRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryArmsRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryArmsRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryArmsRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryHandCannonRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryHandCannonRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryHandCannonRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryHeadRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryHeadRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryHeadRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryLegArmorRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryLegArmorRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryLegArmorRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryLegsRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryLegsRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryLegsRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryMissileHandRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryMissileHandRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryMissileHandRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryShoulderMissileRemap_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryShoulderMissileRemap_Sp.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryShoulderMissileRemap01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryTorsoRemap_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryTorsoRemap_Sp.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01SentryTorsoRemap01_Base.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01WastelandKit_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 10,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\DLC01WastelandKit01_base.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.97,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\HandModsFireman.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\HandModsPolice.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\HomingBeacon.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\MechanistAntenna.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainArms.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainBody.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainBottom.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainCanopyGlass.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "FalloffEnabled": true,
+        "BaseColor": 16777215,
+        "FalloffStartAngle": 0.42261824,
+        "FalloffStopAngle": 0.17364822,
+        "FalloffStopOpacity": 1,
+        "AlphaBlendMode": 3,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 1.2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainHands.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainHead.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobobrainTracks.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\CreateABot\\RobotSatchel.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\Eyebot\\EybotMechanist.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/CreatureTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\Eyebot\\EybotMechanistShield.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\PowerArmor\\T60_Tesla_Bulbs.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\PowerArmor\\T60_Tesla_Pipes.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.31,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 4,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Actors\\PowerArmor\\T60_Tesla.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Architecture\\GlassTile01ForDark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "GrayscaleToPaletteAlpha": true,
+        "BaseColor": 16579836,
+        "BaseColorScale": 0.2,
+        "FalloffStartAngle": 0.2588192,
+        "FalloffStartOpacity": 1,
+        "FalloffStopOpacity": 0.75,
+        "LightingInfluence": 0.99,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 100,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\Mechanist\\Mechanist.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\Mechanist\\MechanistHelmet.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorArmL.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorArmR.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorAssaultronHelm.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorLegL.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorLegPistons.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorLegR.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorMods.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboArmorTorso.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboNeckCuff.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Armor\\RoboArmor\\RoboSentryHelmet.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\BuzzBlade\\BuzzBlade01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\BuzzBlade\\BuzzBlade02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\BuzzBlade\\SawBladeStandard.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\BuzzBlade\\TazerBlade.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\BuzzBlade\\TazerBladeCopper.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\BuzzBlade\\TazerBladeDialectric.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Effects\\TeslaTileScroll.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "FalloffEnabled": true,
+        "BaseColor": 4754419,
+        "BaseColorScale": 8,
+        "FalloffStartAngle": 0.25881907,
+        "FalloffStopAngle": 0.087155804,
+        "FalloffStartOpacity": 1,
+        "AlphaBlendMode": 2,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "GrayscaleToPaletteColor": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationArm01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationMachine01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationMachine02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationMachine03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationMachine04.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationTerminal01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Furniture\\Workstations\\BotStationTerminal02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.8,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Interiors\\DLCGlassLight01.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 16777215,
+        "LightingInfluence": 0.85,
+        "Alpha": 0.3,
+        "AlphaBlendMode": 2,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.6,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Interiors\\FloorMedicalTiles01.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.58,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "UScale": 2,
+        "VScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Interiors\\FloorMedicalTiles02.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.58,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "UScale": 2,
+        "VScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Interiors\\FloorMetalRibs01.bgsm",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.58,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01Amplifier01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.4,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01Components.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 15137023,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01Interchange01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.4,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01MechanistDrawing.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 5197647,
+        "SpecularMult": 0.2,
+        "Smoothness": 0.2,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01MechanistDrawingLowPoly.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01MechanistDrawingLowPolyBack.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01MechanistPoster01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01MechanistPoster02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01MechanistPoster03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\DLC01Schematics.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 13560047,
+        "SpecularMult": 0.67,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Props\\Holotape\\DLC01AutomatronHolotape.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\GeneralAtomicsFloorSeal\\DLC01GeneralAtomicsFloorSeal01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 14014687,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\GeneralAtomicsRobcoSigns\\RobcoRoofSign01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\GeneralAtomicsRobcoSigns\\RobcoRoofSignInside01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\GeneralAtomicsRobcoSigns\\RobcoSmallSigns.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\MachineKit\\JarOrgans01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\MachineKit\\JarOrgansGrey01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\MachineKit\\JarOrgansInJar.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\MachineKit\\JarOrgansOutOfJar.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\MachineKit\\MacWireBundle01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.2,
+        "Smoothness": 0.3,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\MachineKit\\SkeletonInJar.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "EmitEnabled": true,
+        "EmittanceColor": 4605510,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\ProtectronPod\\ProtectronPodDarkGlass01.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 8421504,
+        "LightingInfluence": 0.9,
+        "Alpha": 0.4,
+        "AlphaBlendMode": 2,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\Rubble\\Robottrashpilesnorust.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 65,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\SetDressing\\Rubble\\Robottrashpilesrust.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 65,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\AssaultronBlade\\AssaultronBlade.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\AssaultronBlade\\VibroBlade.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.6,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGun.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.9,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrel.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.9,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrel02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrel02Copper.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.2,
+        "Smoothness": 5,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrel03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.9,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrel03Copper.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.2,
+        "Smoothness": 5,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrelCopper.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.25,
+        "Smoothness": 5,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunBarrelDielectric.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.5,
+        "Smoothness": 0.75,
+        "RootMaterialPath": "template/WeaponPlasticTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunCopper.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.25,
+        "Smoothness": 5,
+        "RootMaterialPath": "template/WeaponMetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\LightningGun\\LightningGunDielectric.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.5,
+        "Smoothness": 0.75,
+        "RootMaterialPath": "template/WeaponPlasticTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\Automaton\\Materials\\DLC01\\Weapons\\Mods\\HammerSaw01Mod.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/VehicleBusTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    }
+  ]
+}

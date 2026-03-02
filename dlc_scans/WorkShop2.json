@@ -1,0 +1,2846 @@
+{
+  "GeneratedAtUtc": "2026-02-27T08:13:05.947584Z",
+  "Root": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials",
+  "FileCount": 159,
+  "SuccessCount": 159,
+  "FailureCount": 0,
+  "Failures": [],
+  "Materials": [
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51ArmAbraxo.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51ArmSugarBomb.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51BodyAbraxo.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51BodySugarbomb.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51HelmetAbraxo.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51HelmetSugarBomb.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51LegAbraxo.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\actors\\DLC05\\PowerArmor\\T51LegSugarBomb.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "HairTintColor": 16777215,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "TwoSided": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackFemale\\ArmorRackFemale01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackFemale\\ArmorRackFemale01SKIN.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackFemale\\ArmorRackFemaleFACE.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackFemale\\ArmorRackMaleFACE.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackMale\\ArmorRackMale01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackMale\\ArmorRackMaleFACE.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackMale\\ArmorRackMaleHANDS.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Actors\\ArmorRackMale\\ArmorRackMaleSKIN.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Architecture\\WarehouseGarageDoor01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Fireworks\\FireworkShell01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Fireworks\\Peony00.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "AlphaBlendMode": 3,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Fireworks\\Peony01.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Fireworks\\WeatherChangePayloadClear.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 47871,
+        "BaseColorScale": 4,
+        "AlphaBlendMode": 3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Fireworks\\WeatherChangePayloadRad.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 8388352,
+        "BaseColorScale": 4,
+        "AlphaBlendMode": 3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Fireworks\\WeatherChangePayloadRain.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 16777215,
+        "BaseColorScale": 4,
+        "AlphaBlendMode": 3,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01Blue.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01Glow.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01Green.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01Orange.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01Red.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01White.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\Effects\\Paintballs\\PaintBallProjectile01Yellow.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.5,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 2,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioBlack.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmitEnabled": true,
+        "EmittanceColor": 10592673,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioBlue.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmitEnabled": true,
+        "EmittanceColor": 10592673,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioBlueLight.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmitEnabled": true,
+        "EmittanceColor": 10592673,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioGreen.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioGreenOlive.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmitEnabled": true,
+        "EmittanceColor": 10592673,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioRed.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioWhite.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmitEnabled": true,
+        "EmittanceColor": 10592673,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\HamRadio\\HamRadioYellow.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 1.2,
+        "EmitEnabled": true,
+        "EmittanceColor": 10592673,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\PADisplay\\DLC05_PADisplay01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "Smoothness": 0.8,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.6,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\PADisplay\\DLC05_PADisplay02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "Smoothness": 0.8,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\PADisplay\\DLC05_PADisplayBlue01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "Smoothness": 0.8,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.6,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\PADisplay\\DLC05_PADisplayRed01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "Smoothness": 0.8,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.6,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\PADisplay\\DLC05_PADisplayYellow01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "Smoothness": 0.8,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.6,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\AdvancedSwitch01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.8,
+        "Smoothness": 0.8,
+        "RootMaterialPath": "template/ArmorTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-AND01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "VOffset": 0.25,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-NAND01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "UOffset": 0.5,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-NOR01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "UOffset": 0.5,
+        "VOffset": 0.25,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-NOT01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "VOffset": 0.75,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-Or01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-XNOR01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "VOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabel-XOR01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "UOffset": 0.5,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvancedSwitches\\LogicLabels01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Decal": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\AdvertsPosters08.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Ammo.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Armor.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Clothing.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Explosives01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Explosives02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Food.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Weapon01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Weapon02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05Builder01Weapon03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "Template/MetalTemplate_Wet.bgsm",
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Builders\\DLC05ConveyorBelts01Gray.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\ConveyorBelts\\ConveyorBeltLift01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 1,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0.4,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster03.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0.4,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster04.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0.4,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster05.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0.4,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster06.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0.4,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster07.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0.4,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 127,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_GlowPoster08.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularColor": 16777215,
+        "RootMaterialPath": "template/defaultTemplate_wet.bgsm",
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "EmittanceMult": 0,
+        "CastShadows": true,
+        "Glowmap": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.502,
+        "AlphaTestRef": 1,
+        "AlphaTest": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_PosterDarkening01.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "BaseColor": 0,
+        "AlphaBlendMode": 2,
+        "ZBufferWrite": false,
+        "NonOccluder": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05_PosterLight01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "Smoothness": 0.8,
+        "EmitEnabled": true,
+        "EmittanceColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05WeaponRack01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05WeaponRack02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5,
+        "AlphaTest": true,
+        "TwoSided": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05WeaponRackHeavy01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "SpecularMult": 0.7,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\DLC05WeaponRackHeavy02.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\FiringTarget\\DLC05FiringTarget.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\FiringTarget\\DLC05FiringTargetBlue.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Hopper\\Hopper01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMappingMaskScale": 0.5,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-A.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-B.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-C.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-D.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-DollarSign.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-E.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-ExclaimationMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-F.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-Star.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Black-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 0,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-0.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-1.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-2.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-3.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-4.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-5.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-6.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-7.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-8.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-9.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-DollarSign.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-ExclaimationMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-G.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-H.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-I.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-J.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-K.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-L.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-M.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-N.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-O.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-P.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-Q.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.6,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-QuestionMark.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-R.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.7,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-S.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.8,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-Star.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "VOffset": 0.75,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-T.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.9,
+        "VOffset": 0.25,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-U.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-V.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.1,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-W.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.2,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-X.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.3,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-Y.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.4,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeLetters\\MarqueeCharacter-Red-Z.BGEM",
+      "Kind": "BGEM",
+      "Fields": {
+        "EffectLightingEnabled": true,
+        "BaseColor": 4128768,
+        "LightingInfluence": 0.999,
+        "UOffset": 1.5,
+        "VOffset": 0.5,
+        "AlphaBlendMode": 2,
+        "AlphaTestRef": 127,
+        "ZBufferWrite": false,
+        "TwoSided": true,
+        "NonOccluder": true,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\MarqueeSigns\\MarqueeSign01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "EnvironmentMapping": true,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\PitchingMachine\\PitchingMachine01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    },
+    {
+      "Path": "D:\\FO4_Corpus_Vanilla\\DLC\\WorkShop2\\Materials\\DLC05\\SetDressing\\Workshop\\Stockade\\Stockade01.BGSM",
+      "Kind": "BGSM",
+      "Fields": {
+        "SpecularEnabled": true,
+        "SpecularColor": 16777215,
+        "CastShadows": true,
+        "DisplacementTextureBias": 0,
+        "DisplacementTextureScale": 0,
+        "TessellationPnScale": 0,
+        "TessellationBaseFactor": 0,
+        "GrayscaleToPaletteScale": 0.5019608,
+        "AlphaTestRef": 127,
+        "Version": 2
+      }
+    }
+  ]
+}
