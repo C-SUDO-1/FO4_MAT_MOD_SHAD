@@ -64,3 +64,12 @@ build/
 **/vcpkg_installed/
 *.tlog
 *.lastbuildstate
+# Big generated dumps - do not commit
+NifCli/*.jsonl
+NifCli/analysis_out/*.jsonl
+# Large analysis outputs
+*.jsonl
+**/analysis_out/
+NifCli/analysis_out/
+FO4ShaderDB/sessions/
+RenderArchitectureDB/radb_out/raw/observations/
