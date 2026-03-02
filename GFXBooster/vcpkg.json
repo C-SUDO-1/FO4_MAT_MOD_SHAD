@@ -1,0 +1,22 @@
+﻿{
+  "name": "gfxbooster",
+  "version-string": "0.0.0",
+  "dependencies": [
+    "boost-atomic",
+    "boost-container",
+    "boost-filesystem",
+    "boost-system",
+    "boost-thread",
+    "boost-stl-interfaces",
+    "boost-headers",
+    "boost-iostreams",
+    "span-lite",
+    "fmt",
+    "imgui",
+    "rsm-mmio",
+    {
+      "name": "spdlog",
+      "features": ["fmt", "tz-offset"]
+    }
+  ]
+}

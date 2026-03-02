@@ -1,0 +1,12 @@
+Put the upstream Dear ImGui backend files in this folder:
+
+- imgui_impl_win32.h
+- imgui_impl_win32.cpp
+- imgui_impl_dx11.h
+- imgui_impl_dx11.cpp
+
+You can copy them from the official ImGui repository under backends/.
+If you already installed imgui via vcpkg, you can usually find them under:
+  %VCPKG_ROOT%\buildtrees\imgui\src\*\backends\
+
+After copying, rerun CMake configure + build.
